@@ -1,0 +1,1001 @@
+App ID,App Name,Category,Rating,Number of Reviews,Installs,Size (MB),Price (USD),Content Rating,Type,Developer Name,Last Updated,Android Version,Current Version,In-App Purchases,Ad Supported,App Revenue (USD),User Engagement Score
+app72022,App_7473,Shopping,2.9,262284,6166886,486.61,17.29,Mature 17+,Paid,Developer C,2024-09-01,6.0 and up,6.3,Yes,No,107466295.34,1.37
+app41877,App_4787,Finance,1.8,473207,3411878,456.65,18.54,Teen,Paid,Developer F,2024-06-14,5.0 and up,1.0,No,No,63434668.89,1.17
+app96303,App_1278,Finance,2.1,15377,1511134,370.67,0.0,Everyone 10+,Free,Developer G,2024-03-20,9.0 and up,6.3,Yes,No,719346.15,2.77
+app22897,App_7200,Social,2.1,444147,5022956,432.78,0.0,Teen,Free,Developer G,2024-11-29,5.0 and up,2.5,Yes,Yes,3377780.18,1.4
+app22321,App_4348,Shopping,3.5,131627,2794526,203.03,10.7,Everyone,Paid,Developer J,2024-09-17,5.0 and up,1.0,No,Yes,29902652.47,5.86
+app14733,App_5107,Music,2.6,333426,4594211,60.02,6.67,Teen,Paid,Developer E,2024-01-27,8.0 and up,3.2,Yes,Yes,31289539.62,7.58
+app49744,App_4507,Productivity,2.8,328312,6994715,32.56,0.0,Everyone 10+,Free,Developer I,2024-10-13,7.0 and up,2.5,No,No,1448232.23,1.67
+app18127,App_4934,Education,4.9,426692,9719943,408.77,18.17,Everyone,Paid,Developer J,2024-04-12,4.1 and up,3.2,No,No,177883516.38,3.39
+app79506,App_5487,Travel,2.5,391158,3188532,135.86,17.48,Everyone,Paid,Developer E,2024-07-17,10.0 and up,2.5,Yes,No,55815744.72,9.07
+app47380,App_6803,Photography,3.8,461573,2128527,25.94,19.18,Everyone,Paid,Developer E,2024-02-12,5.0 and up,3.2,Yes,Yes,41357829.3,7.35
+app80182,App_5836,Photography,2.5,231639,387680,39.71,0.0,Everyone 10+,Free,Developer H,2024-11-19,6.0 and up,1.0,Yes,Yes,38596.42,4.15
+app77701,App_8386,Music,1.0,271033,9733280,426.46,17.8,Teen,Paid,Developer H,2024-06-15,7.0 and up,4.0,Yes,No,173660594.28,9.69
+app56730,App_9876,Music,4.9,447809,569414,240.93,0.0,Mature 17+,Free,Developer H,2024-10-27,6.0 and up,4.0,Yes,No,138285.8,7.14
+app32916,App_9120,Social,5.0,496586,673446,351.99,0.0,Everyone,Free,Developer F,2024-11-12,8.0 and up,6.3,Yes,No,634248.11,8.96
+app65008,App_4955,Game,1.2,261390,2274372,173.06,0.0,Mature 17+,Free,Developer E,2024-01-04,6.0 and up,6.3,No,No,1021955.72,3.74
+app95841,App_5267,Shopping,2.4,374403,2726471,176.2,0.0,Everyone,Free,Developer F,2024-10-13,4.1 and up,2.5,No,Yes,231748.33,6.47
+app61589,App_8396,Productivity,4.8,432319,9014483,55.2,0.0,Teen,Free,Developer C,2024-05-11,4.1 and up,3.2,Yes,No,2619836.75,6.3
+app64487,App_1642,Travel,3.2,141844,3023960,418.85,6.04,Everyone,Paid,Developer A,2024-01-06,7.0 and up,1.0,Yes,No,18276802.67,4.87
+app10410,App_5121,Game,4.4,412197,9639488,278.98,0.43,Mature 17+,Paid,Developer B,2024-04-02,7.0 and up,6.3,Yes,Yes,5133948.73,2.44
+app23789,App_5562,Finance,2.9,314501,5441081,277.57,2.96,Teen,Paid,Developer G,2024-11-14,10.0 and up,3.2,No,No,16855174.99,7.54
+app42183,App_2485,Finance,2.9,450205,4639961,422.86,1.39,Teen,Paid,Developer I,2024-03-18,8.0 and up,6.3,No,Yes,8086585.61,6.28
+app92320,App_4020,Health & Fitness,3.5,13303,4726395,118.26,0.0,Everyone 10+,Free,Developer E,2024-07-13,5.0 and up,2.5,No,Yes,93372.68,8.52
+app54528,App_2790,Game,3.2,16623,2908576,173.51,19.18,Everyone 10+,Paid,Developer D,2024-09-11,6.0 and up,6.3,Yes,Yes,56846062.02,3.86
+app79587,App_1160,Photography,1.3,415879,229697,450.12,1.09,Teen,Paid,Developer I,2024-11-14,7.0 and up,2.5,No,Yes,253362.08,9.07
+app68018,App_9150,Game,2.7,176966,3550585,219.61,19.33,Everyone 10+,Paid,Developer J,2024-06-06,4.1 and up,5.1,No,No,69281514.5,1.63
+app15995,App_9854,Music,1.4,182902,8377673,314.0,10.45,Everyone 10+,Paid,Developer D,2024-01-22,5.0 and up,6.3,Yes,No,94345682.83,9.79
+app57674,App_7440,Health & Fitness,4.1,231876,4287192,204.6,0.0,Everyone 10+,Free,Developer C,2024-04-29,9.0 and up,1.0,No,No,2471294.89,6.13
+app29442,App_5574,Finance,3.5,80148,4180389,401.19,0.0,Everyone,Free,Developer F,2024-06-30,6.0 and up,4.0,Yes,No,1208975.71,6.36
+app95846,App_1030,Health & Fitness,4.1,284882,873189,296.25,0.0,Everyone 10+,Free,Developer C,2024-01-22,6.0 and up,4.0,Yes,No,6943.6,9.8
+app66715,App_3938,Game,5.0,371566,1317621,354.86,16.25,Everyone,Paid,Developer F,2024-06-02,5.0 and up,3.2,No,No,21926945.73,4.14
+app59552,App_1994,Social,4.9,240544,8311619,408.66,0.0,Everyone 10+,Free,Developer B,2024-08-11,8.0 and up,3.2,Yes,Yes,0.0,5.52
+app32077,App_7801,Education,3.7,94580,7236051,33.32,10.27,Everyone 10+,Paid,Developer D,2024-11-10,10.0 and up,3.2,Yes,Yes,75019096.0,9.13
+app75479,App_9282,Shopping,2.1,401381,9754065,441.31,0.0,Mature 17+,Free,Developer G,2024-03-18,10.0 and up,7.4,No,No,279998.59,5.39
+app13469,App_2355,Education,1.7,273063,277604,84.46,0.0,Teen,Free,Developer J,2024-08-18,10.0 and up,6.3,No,No,62610.75,3.77
+app88655,App_4767,Health & Fitness,3.9,167015,9007068,356.06,5.55,Everyone 10+,Paid,Developer F,2024-06-06,4.1 and up,2.5,No,Yes,58410328.81,1.49
+app22943,App_5823,Shopping,3.1,499523,1654369,111.34,16.27,Everyone,Paid,Developer G,2024-10-14,10.0 and up,7.4,No,Yes,28032733.06,9.41
+app27380,App_4566,Finance,3.2,441667,2802690,359.22,1.23,Everyone 10+,Paid,Developer J,2024-11-16,7.0 and up,4.0,Yes,Yes,3896166.52,8.39
+app92088,App_5812,Education,2.8,470163,5046246,207.76,8.11,Everyone 10+,Paid,Developer C,2024-04-30,4.1 and up,7.4,No,Yes,40994538.72,1.74
+app65928,App_5695,Social,4.8,110201,6546186,143.17,0.0,Teen,Free,Developer H,2024-07-26,7.0 and up,6.3,Yes,Yes,2919102.47,3.01
+app36849,App_8085,Social,1.7,127560,1537938,373.75,0.0,Mature 17+,Free,Developer I,2024-02-13,6.0 and up,4.0,No,No,274416.45,1.5
+app40132,App_3631,Music,1.1,330298,8617876,189.42,0.0,Mature 17+,Free,Developer D,2024-01-28,7.0 and up,3.2,Yes,Yes,380969.21,8.1
+app91252,App_6351,Finance,3.8,249028,1391384,250.48,0.0,Teen,Free,Developer D,2024-10-30,4.1 and up,3.2,Yes,No,0.0,6.09
+app99533,App_2782,Travel,4.1,259244,5374052,442.02,4.55,Everyone 10+,Paid,Developer I,2024-11-21,4.1 and up,2.5,Yes,Yes,25367641.15,1.4
+app50661,App_8371,Education,2.8,256024,2288483,309.84,2.88,Teen,Paid,Developer C,2024-11-19,10.0 and up,7.4,Yes,No,6702990.5,9.78
+app37742,App_5182,Finance,4.7,23731,3710071,270.2,18.91,Teen,Paid,Developer C,2024-04-14,10.0 and up,4.0,No,No,71643007.17,4.68
+app15553,App_8995,Finance,1.7,42648,3251732,329.94,9.41,Teen,Paid,Developer F,2024-04-15,10.0 and up,2.5,No,Yes,31430016.35,6.69
+app78219,App_2569,Health & Fitness,1.6,394625,6324614,182.54,2.97,Everyone,Paid,Developer A,2024-10-17,6.0 and up,1.0,No,Yes,20464362.83,7.74
+app23096,App_6265,Productivity,4.3,344568,9238497,173.92,5.95,Mature 17+,Paid,Developer F,2024-12-04,4.1 and up,4.0,Yes,No,57518795.84,7.82
+app25058,App_2055,Education,1.4,441440,9122313,185.67,18.99,Everyone 10+,Paid,Developer D,2024-02-27,10.0 and up,7.4,Yes,Yes,176718843.08,3.39
+app62503,App_7518,Health & Fitness,2.4,418651,6880308,324.05,0.0,Mature 17+,Free,Developer D,2024-05-01,5.0 and up,1.0,Yes,No,5520191.55,6.62
+app91970,App_8278,Travel,1.5,46114,7718562,321.64,0.0,Everyone 10+,Free,Developer A,2024-09-29,8.0 and up,3.2,No,No,1917613.08,7.48
+app84403,App_3091,Travel,2.8,200999,9808098,367.8,0.0,Teen,Free,Developer J,2024-08-04,7.0 and up,5.1,Yes,Yes,5049794.3,1.33
+app87124,App_9449,Shopping,1.1,366857,2232344,302.65,2.21,Mature 17+,Paid,Developer A,2024-01-14,7.0 and up,1.0,No,Yes,6251236.86,1.13
+app66624,App_5027,Music,2.4,18884,9720460,412.08,0.0,Teen,Free,Developer H,2024-06-26,10.0 and up,3.2,No,Yes,4471426.56,3.17
+app69517,App_8014,Finance,3.1,107482,8722920,476.45,8.53,Teen,Paid,Developer C,2024-08-23,6.0 and up,6.3,Yes,No,76510817.56,5.5
+app90664,App_9987,Shopping,2.1,234332,8437922,274.87,3.62,Teen,Paid,Developer D,2024-11-19,10.0 and up,4.0,No,Yes,36487158.41,2.47
+app81737,App_7834,Music,1.3,487344,737578,375.83,15.72,Mature 17+,Paid,Developer D,2024-03-21,4.1 and up,2.5,No,Yes,11659339.39,9.89
+app77448,App_2753,Social,2.8,471572,5713736,210.02,0.0,Mature 17+,Free,Developer C,2024-08-19,6.0 and up,2.5,No,Yes,2887638.43,1.62
+app30679,App_9429,Health & Fitness,1.8,2544,2777636,79.58,0.0,Teen,Free,Developer H,2024-10-21,10.0 and up,5.1,No,No,1912075.68,8.88
+app61927,App_7239,Music,2.1,158026,9570028,327.86,12.9,Teen,Paid,Developer H,2024-10-07,6.0 and up,4.0,Yes,Yes,128624268.09,1.33
+app78506,App_6476,Music,4.5,224180,8611946,18.89,14.99,Everyone 10+,Paid,Developer J,2024-07-21,6.0 and up,5.1,Yes,No,130110627.84,1.34
+app21287,App_4721,Music,4.1,170556,8819961,467.02,7.3,Mature 17+,Paid,Developer G,2024-11-02,5.0 and up,3.2,Yes,No,66774543.63,2.31
+app78106,App_9036,Education,3.8,8652,7014677,98.01,0.0,Mature 17+,Free,Developer F,2024-05-16,6.0 and up,1.0,Yes,No,36135.79,4.69
+app12202,App_8502,Social,3.1,37839,8171662,253.07,0.0,Everyone 10+,Free,Developer I,2024-10-05,4.1 and up,2.5,Yes,No,5217885.57,4.21
+app51406,App_9828,Social,4.3,424415,2891372,123.38,0.0,Everyone,Free,Developer D,2024-05-05,5.0 and up,3.2,No,No,932188.88,9.5
+app85394,App_7703,Health & Fitness,3.0,304273,6591660,90.4,0.0,Mature 17+,Free,Developer C,2024-12-19,8.0 and up,5.1,Yes,Yes,2926387.97,9.69
+app54612,App_6723,Music,4.1,379555,5292361,483.97,0.0,Mature 17+,Free,Developer I,2024-03-17,9.0 and up,6.3,Yes,No,317048.77,4.34
+app14600,App_8504,Music,3.4,232083,6195635,263.2,0.0,Teen,Free,Developer D,2024-08-12,4.1 and up,4.0,Yes,No,544671.3,6.4
+app28770,App_8191,Game,2.9,89889,8845785,291.58,0.0,Mature 17+,Free,Developer B,2024-08-13,7.0 and up,3.2,Yes,Yes,965114.36,4.24
+app57369,App_4100,Social,3.4,274020,9961369,135.88,0.0,Mature 17+,Free,Developer F,2024-03-15,8.0 and up,6.3,Yes,Yes,8420362.9,8.78
+app76511,App_9982,Shopping,2.2,80110,165952,115.88,10.24,Everyone 10+,Paid,Developer F,2024-10-24,10.0 and up,5.1,Yes,No,1760236.76,1.75
+app81077,App_2580,Game,2.2,339233,4011152,330.63,0.0,Everyone,Free,Developer H,2024-06-23,7.0 and up,6.3,No,No,76099.39,1.66
+app29827,App_3924,Social,1.7,50335,681326,20.67,15.41,Everyone,Paid,Developer C,2024-02-28,5.0 and up,3.2,No,Yes,10580333.92,3.46
+app95299,App_6462,Productivity,4.8,24305,765340,263.56,0.0,Everyone,Free,Developer D,2024-04-01,7.0 and up,7.4,No,No,0.0,9.4
+app19255,App_9773,Productivity,3.2,175002,9619957,228.64,0.0,Mature 17+,Free,Developer D,2024-09-29,9.0 and up,7.4,No,No,343866.1,7.34
+app10106,App_1052,Photography,4.4,370562,9425274,375.53,12.5,Everyone,Paid,Developer A,2024-11-15,7.0 and up,1.0,Yes,No,123844445.74,6.65
+app18545,App_8180,Shopping,4.4,39188,8636524,8.1,1.34,Teen,Paid,Developer B,2024-01-13,5.0 and up,2.5,No,Yes,17369467.34,2.34
+app46088,App_6436,Travel,1.9,476996,8420227,434.05,0.0,Everyone 10+,Free,Developer F,2024-05-29,9.0 and up,2.5,Yes,No,260861.01,5.37
+app77488,App_1555,Social,5.0,21866,9986270,176.5,14.84,Everyone,Paid,Developer B,2024-08-20,7.0 and up,5.1,No,No,149885879.26,5.84
+app32745,App_1368,Shopping,2.1,57510,7935323,202.39,8.6,Mature 17+,Paid,Developer H,2024-09-19,4.1 and up,3.2,No,No,68243777.8,4.41
+app97947,App_2529,Music,1.5,106785,6780525,279.01,0.0,Teen,Free,Developer F,2024-06-26,5.0 and up,7.4,No,No,757079.75,5.77
+app98009,App_3175,Health & Fitness,3.8,66888,3641797,356.14,0.0,Everyone,Free,Developer J,2024-10-02,4.1 and up,4.0,No,No,1547861.42,2.49
+app10389,App_6448,Education,2.1,310449,3445011,451.3,0.0,Everyone,Free,Developer D,2024-02-20,6.0 and up,6.3,No,Yes,635753.84,2.52
+app58001,App_4958,Education,4.5,62757,2964038,421.12,0.0,Everyone 10+,Free,Developer G,2024-01-19,8.0 and up,2.5,No,No,1582211.26,7.84
+app34507,App_7847,Photography,2.4,285103,8697330,104.24,0.0,Everyone 10+,Free,Developer C,2024-08-07,5.0 and up,7.4,Yes,Yes,3034055.49,3.84
+app81733,App_2904,Shopping,1.1,39539,3141158,434.36,2.35,Teen,Paid,Developer B,2024-04-29,6.0 and up,4.0,Yes,Yes,8163413.7,5.83
+app63017,App_7981,Finance,1.3,127868,997615,146.16,0.0,Teen,Free,Developer J,2024-05-17,10.0 and up,6.3,No,Yes,10240.11,7.27
+app69651,App_4256,Finance,4.4,346359,9402144,436.83,11.66,Everyone,Paid,Developer E,2024-06-24,5.0 and up,7.4,No,Yes,113452520.98,1.25
+app61552,App_9763,Finance,3.8,83738,1840507,85.7,0.0,Mature 17+,Free,Developer G,2024-12-17,4.1 and up,6.3,Yes,No,993076.98,7.19
+app50763,App_5776,Music,2.9,208153,1943665,314.54,0.0,Everyone,Free,Developer D,2024-12-14,6.0 and up,3.2,Yes,No,0.0,1.59
+app51072,App_6058,Photography,2.4,166663,4917012,204.67,0.0,Everyone,Free,Developer D,2024-02-27,10.0 and up,2.5,Yes,No,0.0,5.73
+app66221,App_3718,Finance,5.0,389788,428512,258.8,0.0,Teen,Free,Developer G,2024-06-11,4.1 and up,6.3,Yes,No,79406.2,3.52
+app94151,App_6198,Shopping,3.8,446554,2474139,450.99,0.6,Everyone 10+,Paid,Developer J,2024-03-21,6.0 and up,7.4,No,Yes,1795476.57,7.68
+app89087,App_6431,Music,4.5,377161,6176229,221.75,0.0,Everyone 10+,Free,Developer B,2024-11-15,9.0 and up,5.1,No,Yes,5710320.49,7.57
+app29811,App_7737,Game,1.2,151769,6957596,476.69,0.0,Everyone,Free,Developer C,2024-03-11,5.0 and up,3.2,Yes,No,2323436.17,3.61
+app58986,App_1445,Shopping,2.8,265250,5623491,85.32,19.29,Everyone,Paid,Developer G,2024-01-12,8.0 and up,1.0,Yes,No,110466819.98,5.02
+app43355,App_5582,Productivity,1.6,235212,6216253,275.04,0.0,Everyone 10+,Free,Developer J,2024-12-09,6.0 and up,4.0,No,No,229950.94,5.84
+app78826,App_2732,Game,1.1,158846,2838810,388.91,0.0,Mature 17+,Free,Developer D,2024-04-28,5.0 and up,2.5,No,Yes,261169.68,8.77
+app69131,App_6479,Social,3.0,41894,94310,70.44,15.06,Everyone,Paid,Developer C,2024-06-12,10.0 and up,6.3,Yes,Yes,1424415.2,5.17
+app31095,App_7018,Game,3.6,144817,4279096,394.94,8.76,Teen,Paid,Developer A,2024-04-10,7.0 and up,1.0,Yes,Yes,38019378.74,7.78
+app29881,App_3284,Health & Fitness,3.4,317003,5093752,88.92,1.21,Everyone 10+,Paid,Developer H,2024-08-01,8.0 and up,6.3,Yes,No,8932210.91,7.99
+app89392,App_5366,Education,2.8,264847,9384746,13.64,0.0,Teen,Free,Developer J,2024-02-18,8.0 and up,6.3,No,No,212380.27,3.21
+app99728,App_2815,Music,1.4,201836,3143865,139.54,12.87,Mature 17+,Paid,Developer J,2024-07-22,6.0 and up,1.0,No,No,41055362.55,4.39
+app56950,App_1911,Productivity,3.7,178414,8713781,290.31,0.0,Everyone 10+,Free,Developer F,2024-08-14,5.0 and up,6.3,Yes,Yes,3028792.1,3.37
+app61988,App_2143,Education,4.5,143351,6014748,324.45,14.86,Teen,Paid,Developer C,2024-03-30,9.0 and up,7.4,Yes,No,93137844.61,5.16
+app52293,App_1175,Shopping,1.4,340906,4161741,253.67,0.0,Mature 17+,Free,Developer A,2024-12-22,9.0 and up,6.3,No,Yes,1454663.99,9.84
+app16407,App_3286,Education,4.8,22153,8556198,322.63,0.0,Everyone,Free,Developer C,2024-12-22,10.0 and up,4.0,Yes,Yes,868088.48,1.76
+app64079,App_9576,Game,2.3,98591,6913730,302.73,0.0,Everyone 10+,Free,Developer H,2024-08-19,4.1 and up,3.2,Yes,Yes,3529059.88,9.53
+app73770,App_3602,Education,2.1,237687,5358629,168.39,0.0,Mature 17+,Free,Developer I,2024-07-30,10.0 and up,2.5,No,No,4065058.89,3.46
+app80329,App_3443,Shopping,2.0,36549,9256909,226.41,4.1,Mature 17+,Paid,Developer I,2024-02-16,9.0 and up,2.5,No,Yes,42072492.2,5.38
+app96249,App_2019,Health & Fitness,1.3,53616,2199855,407.45,0.0,Mature 17+,Free,Developer F,2024-05-08,10.0 and up,1.0,Yes,Yes,524340.65,4.62
+app78192,App_4978,Travel,2.6,59469,5667886,374.27,0.0,Mature 17+,Free,Developer H,2024-11-06,8.0 and up,6.3,No,No,954975.7,9.03
+app97243,App_6026,Finance,1.7,198988,8740189,345.18,17.17,Everyone,Paid,Developer E,2024-06-26,7.0 and up,3.2,Yes,No,151227127.2,6.1
+app20359,App_2309,Travel,4.8,37563,8980928,422.68,0.0,Teen,Free,Developer C,2024-10-05,5.0 and up,6.3,Yes,Yes,3204257.71,2.63
+app66454,App_5261,Photography,3.4,139409,9847156,96.28,0.0,Everyone 10+,Free,Developer B,2024-06-03,8.0 and up,3.2,No,No,0.0,6.13
+app55329,App_9997,Productivity,4.0,27744,9156751,498.78,0.0,Everyone 10+,Free,Developer G,2024-05-09,4.1 and up,3.2,Yes,Yes,3191679.24,3.82
+app97866,App_5944,Social,3.0,478172,7602252,124.5,18.42,Everyone 10+,Paid,Developer F,2024-08-17,10.0 and up,1.0,Yes,No,141479337.08,4.86
+app91643,App_1145,Finance,3.0,188874,528954,165.91,10.25,Teen,Paid,Developer I,2024-09-03,9.0 and up,2.5,No,Yes,5421778.5,1.48
+app82486,App_7658,Music,2.7,261930,3069372,288.09,3.43,Everyone,Paid,Developer B,2024-12-02,6.0 and up,6.3,No,Yes,12671745.42,2.15
+app93644,App_3138,Photography,1.5,30297,4199760,355.2,15.83,Teen,Paid,Developer C,2024-06-07,5.0 and up,4.0,Yes,Yes,66554238.1,8.25
+app54089,App_5737,Photography,4.2,224341,8411544,480.0,1.0,Mature 17+,Paid,Developer H,2024-12-03,7.0 and up,4.0,No,No,13181650.38,4.3
+app55121,App_9404,Music,3.9,30094,4158679,168.41,0.0,Teen,Free,Developer B,2024-12-21,8.0 and up,6.3,No,Yes,0.0,7.53
+app52899,App_9159,Education,1.7,386013,2317360,300.54,0.0,Everyone,Free,Developer I,2024-09-19,5.0 and up,1.0,Yes,Yes,270372.41,1.27
+app99325,App_3226,Education,4.5,127712,8516402,285.78,5.55,Everyone 10+,Paid,Developer J,2024-11-18,7.0 and up,7.4,Yes,No,53496035.28,5.68
+app18693,App_1446,Game,3.7,20045,4731259,384.63,0.0,Mature 17+,Free,Developer E,2024-08-20,5.0 and up,4.0,Yes,No,2710545.68,6.6
+app47577,App_8940,Music,2.5,373709,9698244,142.41,5.0,Mature 17+,Paid,Developer F,2024-10-07,9.0 and up,2.5,No,Yes,51430465.8,2.13
+app91843,App_4878,Social,3.3,445547,7794242,116.95,0.0,Mature 17+,Free,Developer B,2024-06-24,8.0 and up,3.2,No,No,5138063.73,4.21
+app71737,App_6697,Game,1.0,79407,3751449,410.1,0.0,Everyone 10+,Free,Developer I,2024-07-30,5.0 and up,6.3,No,No,380615.45,9.66
+app56976,App_3677,Travel,2.5,62525,5108110,436.87,0.0,Mature 17+,Free,Developer A,2024-06-06,8.0 and up,4.0,No,Yes,892592.98,5.89
+app76271,App_2902,Music,4.0,108394,6842064,241.28,1.18,Everyone,Paid,Developer H,2024-10-07,4.1 and up,7.4,Yes,Yes,9336098.92,7.56
+app11659,App_4652,Shopping,3.8,295368,5824808,16.55,19.93,Everyone 10+,Paid,Developer A,2024-10-02,4.1 and up,6.3,Yes,Yes,119020754.15,3.81
+app32139,App_1546,Productivity,1.3,347324,4638454,180.63,0.0,Mature 17+,Free,Developer D,2024-08-31,8.0 and up,3.2,Yes,No,214323.88,9.74
+app82210,App_8970,Music,1.1,460939,6100131,327.23,16.48,Teen,Paid,Developer G,2024-10-12,7.0 and up,3.2,Yes,Yes,101027375.57,9.48
+app52329,App_3397,Travel,3.1,196879,370972,277.52,0.0,Mature 17+,Free,Developer C,2024-11-01,7.0 and up,6.3,Yes,Yes,80843.96,8.03
+app68808,App_9595,Music,3.3,311526,3477214,27.42,10.91,Teen,Paid,Developer I,2024-01-30,5.0 and up,5.1,No,No,39534054.99,2.5
+app84211,App_1259,Finance,3.2,257551,474212,393.64,17.27,Mature 17+,Paid,Developer I,2024-03-16,10.0 and up,3.2,No,No,8363367.62,6.29
+app87414,App_9550,Shopping,3.7,197382,9240127,235.35,7.58,Mature 17+,Paid,Developer I,2024-10-27,7.0 and up,6.3,No,No,72137797.63,6.02
+app28414,App_2932,Music,2.4,94037,1769349,310.14,18.54,Teen,Paid,Developer G,2024-08-15,10.0 and up,7.4,No,No,33085619.14,7.68
+app91379,App_6791,Education,4.5,392410,7941268,6.48,0.0,Everyone,Free,Developer F,2024-12-18,8.0 and up,3.2,Yes,No,2697489.85,7.67
+app63188,App_3532,Social,4.0,488946,5441971,424.9,19.97,Everyone,Paid,Developer G,2024-05-19,9.0 and up,5.1,No,Yes,109671497.46,3.12
+app25187,App_7711,Photography,4.8,248105,2666818,230.05,0.0,Teen,Free,Developer D,2024-08-20,10.0 and up,3.2,No,Yes,44381.09,5.19
+app65958,App_6007,Shopping,3.7,311277,2841864,186.94,0.0,Teen,Free,Developer F,2024-05-05,4.1 and up,6.3,No,No,2283325.18,4.28
+app11672,App_6023,Finance,4.8,265128,9212530,263.4,0.05,Everyone 10+,Paid,Developer I,2024-02-03,4.1 and up,5.1,Yes,Yes,460626.5,7.0
+app25829,App_7100,Productivity,2.4,470361,1299657,333.74,12.28,Everyone 10+,Paid,Developer H,2024-03-05,8.0 and up,3.2,Yes,No,16123080.45,9.97
+app63008,App_4498,Social,1.8,412872,8599266,173.44,9.45,Everyone 10+,Paid,Developer J,2024-10-30,9.0 and up,7.4,Yes,No,81892339.17,6.72
+app84445,App_1979,Productivity,3.9,107409,6352705,345.88,0.0,Teen,Free,Developer J,2024-10-27,8.0 and up,6.3,Yes,Yes,0.0,9.31
+app40487,App_9252,Game,4.3,453727,5450536,320.21,13.38,Everyone 10+,Paid,Developer I,2024-05-16,9.0 and up,4.0,Yes,Yes,73978005.09,5.56
+app86749,App_1697,Photography,1.4,284621,9878757,110.99,19.92,Mature 17+,Paid,Developer C,2024-02-26,4.1 and up,3.2,Yes,No,197113401.6,4.19
+app32141,App_9285,Education,1.9,31493,5950068,194.27,13.94,Mature 17+,Paid,Developer C,2024-07-17,10.0 and up,2.5,No,No,83465000.38,3.57
+app72465,App_7582,Social,2.8,233832,4334779,338.48,18.64,Everyone 10+,Paid,Developer F,2024-10-25,7.0 and up,5.1,Yes,Yes,80841388.55,9.91
+app71849,App_6130,Travel,3.2,306145,9932114,133.71,1.33,Everyone 10+,Paid,Developer J,2024-04-01,7.0 and up,1.0,No,No,13209711.62,3.52
+app26259,App_4009,Productivity,3.0,363605,6746393,138.71,8.69,Teen,Paid,Developer A,2024-09-24,8.0 and up,3.2,Yes,Yes,61046222.19,6.92
+app55514,App_1137,Game,5.0,494988,2101414,259.46,6.84,Everyone 10+,Paid,Developer E,2024-05-19,4.1 and up,7.4,No,No,14951759.48,7.39
+app23464,App_2438,Social,4.0,286011,3824509,416.47,0.0,Everyone 10+,Free,Developer B,2024-07-22,6.0 and up,1.0,Yes,Yes,1245422.19,4.48
+app64094,App_5445,Shopping,3.4,30848,9127136,83.71,14.75,Everyone,Paid,Developer B,2024-04-20,4.1 and up,1.0,No,No,134950825.41,9.03
+app79216,App_5326,Health & Fitness,2.8,116819,1704824,260.42,7.14,Everyone 10+,Paid,Developer G,2024-11-18,8.0 and up,2.5,No,Yes,12971365.23,9.5
+app42441,App_2890,Social,2.6,26608,6239187,328.93,17.48,Everyone 10+,Paid,Developer D,2024-05-12,6.0 and up,2.5,No,Yes,109060988.76,4.69
+app18656,App_4985,Travel,5.0,283750,9761002,91.62,0.0,Teen,Free,Developer J,2024-03-11,4.1 and up,6.3,Yes,No,1366409.75,7.86
+app53181,App_2333,Productivity,4.0,323,7040633,147.99,18.31,Teen,Paid,Developer E,2024-07-05,6.0 and up,5.1,Yes,No,135557157.89,7.93
+app74318,App_1835,Health & Fitness,3.7,109272,7594806,276.91,9.02,Everyone 10+,Paid,Developer D,2024-03-14,10.0 and up,4.0,No,Yes,68607376.71,8.48
+app51769,App_6262,Finance,4.7,452149,9934019,416.6,0.0,Mature 17+,Free,Developer J,2024-05-12,6.0 and up,7.4,No,No,658769.16,4.29
+app70416,App_9243,Shopping,4.2,62606,3801043,83.95,18.74,Everyone,Paid,Developer J,2024-01-12,10.0 and up,6.3,No,Yes,72003741.2,3.57
+app64626,App_7808,Productivity,3.7,142501,3033750,219.04,0.0,Everyone,Free,Developer C,2024-12-20,8.0 and up,5.1,No,Yes,39301.61,7.7
+app29150,App_7664,Music,2.4,123601,8773049,80.76,13.71,Teen,Paid,Developer E,2024-08-22,4.1 and up,2.5,No,No,124545418.07,7.5
+app77625,App_5442,Social,2.8,133544,568527,157.24,0.0,Mature 17+,Free,Developer A,2024-04-01,9.0 and up,5.1,Yes,Yes,65467.46,1.14
+app35709,App_5176,Shopping,4.1,190315,6848104,186.21,12.37,Everyone 10+,Paid,Developer J,2024-01-08,10.0 and up,5.1,No,Yes,86582483.28,5.91
+app49765,App_4914,Education,4.0,320122,6316433,424.87,12.46,Everyone,Paid,Developer I,2024-12-04,6.0 and up,1.0,Yes,No,81221494.12,4.84
+app80845,App_2026,Game,3.4,498945,4419843,128.0,2.43,Teen,Paid,Developer C,2024-07-01,9.0 and up,6.3,No,Yes,10981461.46,6.82
+app72912,App_8900,Finance,3.1,363298,216065,434.68,4.69,Mature 17+,Paid,Developer C,2024-10-31,10.0 and up,7.4,Yes,Yes,1013344.85,9.24
+app76459,App_8246,Social,2.6,355443,1681264,234.93,0.0,Mature 17+,Free,Developer I,2024-07-09,5.0 and up,3.2,Yes,Yes,0.0,9.57
+app91188,App_2537,Health & Fitness,1.9,359601,1924199,389.25,0.0,Everyone 10+,Free,Developer J,2024-08-10,8.0 and up,6.3,Yes,No,411425.42,8.35
+app87219,App_5270,Game,3.8,36523,9754692,408.52,6.73,Teen,Paid,Developer A,2024-03-27,7.0 and up,1.0,No,Yes,67568552.41,2.31
+app33068,App_6024,Music,4.4,33268,9387617,69.47,17.8,Everyone 10+,Paid,Developer F,2024-03-09,6.0 and up,6.3,No,Yes,169590513.83,8.99
+app55393,App_6708,Photography,3.1,288876,7358285,157.95,8.61,Everyone,Paid,Developer H,2024-06-17,6.0 and up,5.1,Yes,Yes,65960517.97,2.12
+app90710,App_3519,Productivity,4.3,475119,2599395,43.84,0.0,Everyone 10+,Free,Developer I,2024-06-08,8.0 and up,5.1,No,No,1028977.58,7.32
+app71001,App_3133,Shopping,4.2,371875,3907906,156.96,0.0,Everyone,Free,Developer B,2024-05-28,5.0 and up,3.2,Yes,No,0.0,6.75
+app15316,App_5708,Photography,1.6,331428,5979770,273.75,12.59,Teen,Paid,Developer G,2024-07-23,5.0 and up,2.5,No,Yes,79369720.88,4.93
+app38768,App_3856,Social,1.1,84848,6621092,112.25,2.47,Teen,Paid,Developer J,2024-10-03,5.0 and up,6.3,No,Yes,18401110.02,6.01
+app82723,App_7326,Finance,2.0,25873,2424363,124.12,6.17,Teen,Paid,Developer F,2024-03-11,9.0 and up,7.4,Yes,Yes,15696021.59,2.73
+app52346,App_4906,Shopping,3.2,374820,32805,214.44,0.0,Mature 17+,Free,Developer E,2024-09-24,10.0 and up,5.1,No,No,6578.7,6.16
+app80193,App_7162,Game,1.1,204916,7460858,123.93,0.0,Everyone,Free,Developer J,2024-04-06,10.0 and up,4.0,No,No,141387.77,4.79
+app21964,App_8965,Game,4.9,471637,2965257,336.47,16.13,Everyone,Paid,Developer G,2024-03-08,9.0 and up,7.4,No,Yes,49710147.99,8.85
+app22146,App_5581,Productivity,3.2,449815,2018283,104.27,0.0,Teen,Free,Developer I,2024-06-03,10.0 and up,1.0,No,Yes,316498.46,9.88
+app48565,App_8817,Game,4.5,443854,1667436,319.44,0.0,Everyone,Free,Developer C,2024-07-07,7.0 and up,2.5,Yes,Yes,17604.72,3.27
+app66660,App_8403,Photography,2.1,271157,5674876,484.59,0.0,Everyone 10+,Free,Developer D,2024-02-13,4.1 and up,5.1,No,No,295605.23,2.0
+app85472,App_4123,Education,3.2,450354,8996387,205.5,0.0,Mature 17+,Free,Developer H,2024-01-03,9.0 and up,1.0,Yes,Yes,6385929.55,4.4
+app25302,App_6056,Finance,1.4,435455,3696295,13.03,17.64,Mature 17+,Paid,Developer G,2024-05-09,10.0 and up,1.0,No,No,65202643.8,9.93
+app94783,App_8199,Finance,3.7,51406,4199184,141.43,12.98,Teen,Paid,Developer F,2024-06-04,4.1 and up,4.0,No,No,54922738.49,6.12
+app85783,App_4020,Game,4.3,471514,889188,443.18,0.0,Mature 17+,Free,Developer G,2024-09-24,8.0 and up,7.4,No,Yes,223391.66,8.11
+app52937,App_6565,Health & Fitness,3.8,405301,4241126,420.59,10.61,Everyone 10+,Paid,Developer E,2024-11-29,7.0 and up,3.2,Yes,Yes,47614682.16,5.04
+app94329,App_3944,Finance,4.5,492061,9036590,361.43,9.61,Everyone 10+,Paid,Developer A,2024-03-03,6.0 and up,4.0,No,No,90810190.93,1.27
+app22512,App_7182,Shopping,4.8,147458,3070957,470.56,14.44,Mature 17+,Paid,Developer B,2024-01-28,4.1 and up,7.4,No,No,44437725.62,7.89
+app25791,App_2995,Social,3.4,80932,6984143,477.4,4.62,Everyone,Paid,Developer H,2024-03-16,8.0 and up,2.5,No,Yes,32714312.94,4.59
+app39887,App_5470,Travel,1.9,465641,9051683,38.67,4.75,Everyone,Paid,Developer A,2024-04-22,9.0 and up,6.3,Yes,Yes,44180946.15,2.02
+app17809,App_4068,Travel,4.9,44075,1074599,249.17,0.0,Everyone,Free,Developer J,2024-02-15,7.0 and up,7.4,Yes,Yes,348602.11,1.82
+app11935,App_3680,Music,3.0,195096,514755,273.47,0.0,Everyone 10+,Free,Developer B,2024-06-30,10.0 and up,6.3,Yes,No,318731.58,9.7
+app40970,App_7332,Photography,3.2,234358,5464862,364.38,0.0,Mature 17+,Free,Developer C,2024-09-14,8.0 and up,7.4,No,Yes,384034.35,8.24
+app37303,App_1515,Photography,1.9,29216,6702847,19.55,0.0,Mature 17+,Free,Developer J,2024-03-25,5.0 and up,7.4,Yes,Yes,1458062.9,6.35
+app74067,App_4827,Finance,2.1,467579,172291,55.83,0.0,Teen,Free,Developer G,2024-08-16,9.0 and up,3.2,No,Yes,132134.62,5.35
+app34392,App_8439,Finance,4.0,104734,856715,55.79,0.0,Mature 17+,Free,Developer J,2024-08-17,7.0 and up,7.4,Yes,Yes,195687.9,7.49
+app86383,App_4507,Social,3.6,404269,6527594,461.61,5.15,Everyone 10+,Paid,Developer E,2024-10-06,6.0 and up,5.1,No,Yes,39358483.96,9.82
+app89980,App_9652,Game,3.8,101059,5542665,110.03,0.0,Everyone,Free,Developer C,2024-11-02,4.1 and up,3.2,No,No,914435.23,6.32
+app28988,App_2815,Social,3.7,21251,6387835,404.64,0.0,Everyone 10+,Free,Developer B,2024-09-29,8.0 and up,7.4,No,Yes,1442572.99,3.15
+app30780,App_9223,Music,2.9,141764,8292020,405.16,0.0,Mature 17+,Free,Developer H,2024-05-15,7.0 and up,7.4,Yes,Yes,2747193.02,5.54
+app60607,App_9237,Productivity,2.8,125938,1852564,132.67,10.21,Teen,Paid,Developer E,2024-02-27,5.0 and up,5.1,No,No,20522830.85,7.59
+app80151,App_7022,Finance,3.1,26104,8905023,419.81,6.33,Everyone,Paid,Developer H,2024-08-09,10.0 and up,2.5,Yes,No,63252198.67,2.62
+app63904,App_3869,Education,3.8,325272,2885287,165.65,0.0,Mature 17+,Free,Developer H,2024-02-09,4.1 and up,1.0,No,No,249465.8,3.64
+app81285,App_1722,Education,1.8,413835,2615801,92.8,3.47,Everyone,Paid,Developer H,2024-05-17,7.0 and up,2.5,No,Yes,9222055.19,4.76
+app33707,App_2794,Health & Fitness,3.1,86427,3973673,439.29,10.39,Everyone,Paid,Developer G,2024-04-04,4.1 and up,4.0,No,Yes,44721151.87,9.09
+app80137,App_6722,Shopping,3.6,66880,1245672,299.92,1.35,Teen,Paid,Developer H,2024-09-11,8.0 and up,7.4,Yes,No,1681657.2,6.47
+app21795,App_3374,Education,4.8,35098,4145946,52.29,19.2,Mature 17+,Paid,Developer G,2024-08-30,9.0 and up,6.3,Yes,No,83058957.38,3.1
+app10373,App_4092,Photography,2.2,111159,9950404,119.55,0.0,Everyone,Free,Developer E,2024-05-26,6.0 and up,2.5,No,Yes,0.0,7.31
+app14750,App_4563,Productivity,3.0,134093,9615607,292.11,0.0,Mature 17+,Free,Developer F,2024-12-11,4.1 and up,7.4,No,Yes,0.0,5.88
+app59007,App_9216,Health & Fitness,2.5,100481,3654943,481.46,0.0,Teen,Free,Developer E,2024-12-28,6.0 and up,4.0,No,No,1266678.55,9.11
+app27588,App_4460,Shopping,3.8,289243,5002415,350.62,0.0,Everyone 10+,Free,Developer I,2024-01-22,8.0 and up,4.0,No,Yes,0.0,3.21
+app50928,App_4167,Productivity,1.9,45588,632605,371.11,3.03,Mature 17+,Paid,Developer G,2024-10-04,10.0 and up,7.4,Yes,No,2072411.6,2.45
+app59134,App_9970,Social,4.9,201073,6956419,490.65,0.0,Mature 17+,Free,Developer J,2024-09-27,5.0 and up,6.3,Yes,No,1801906.61,4.06
+app75578,App_1589,Shopping,4.3,162900,1065726,357.48,0.0,Everyone,Free,Developer G,2024-12-25,7.0 and up,3.2,Yes,Yes,45572.47,8.3
+app31123,App_6845,Education,4.7,348254,858306,414.67,0.0,Everyone,Free,Developer A,2024-01-11,4.1 and up,2.5,No,No,193099.98,6.96
+app54434,App_1786,Shopping,4.5,88575,6124869,197.16,9.55,Everyone 10+,Paid,Developer I,2024-08-25,6.0 and up,7.4,Yes,No,60352827.25,4.23
+app72028,App_8538,Health & Fitness,4.9,227942,7021779,15.94,0.0,Teen,Free,Developer E,2024-09-13,10.0 and up,5.1,Yes,Yes,3036969.99,7.02
+app24656,App_2200,Productivity,2.9,14826,5923192,46.5,0.0,Teen,Free,Developer E,2024-12-27,6.0 and up,4.0,Yes,Yes,277337.88,4.12
+app65481,App_7007,Finance,1.9,436430,7448492,461.92,0.0,Teen,Free,Developer B,2024-09-26,8.0 and up,3.2,Yes,Yes,1728379.41,2.42
+app26511,App_4306,Game,4.5,164521,2342163,29.5,19.97,Teen,Paid,Developer I,2024-09-17,8.0 and up,6.3,Yes,No,47452982.25,8.8
+app71751,App_7871,Game,4.7,148884,6916641,499.61,0.0,Everyone,Free,Developer I,2024-09-09,7.0 and up,4.0,No,Yes,3738775.17,2.08
+app92324,App_8239,Finance,3.2,241224,607273,230.66,0.0,Mature 17+,Free,Developer F,2024-03-25,8.0 and up,6.3,Yes,No,181886.85,6.89
+app59529,App_1075,Travel,3.9,225161,2880343,11.09,15.42,Mature 17+,Paid,Developer E,2024-05-06,5.0 and up,7.4,Yes,No,44880010.57,6.06
+app82493,App_8035,Travel,3.0,467999,3133438,126.34,14.46,Everyone 10+,Paid,Developer D,2024-12-15,7.0 and up,6.3,No,Yes,46207007.14,3.2
+app20039,App_8630,Travel,1.7,27799,3112549,33.8,13.81,Everyone,Paid,Developer B,2024-07-12,8.0 and up,1.0,No,Yes,42984301.69,5.78
+app46875,App_8237,Social,2.2,493441,5756523,258.66,10.0,Everyone,Paid,Developer D,2024-10-23,4.1 and up,3.2,No,Yes,58793961.67,4.91
+app58256,App_7445,Finance,1.1,123367,173599,172.31,5.46,Mature 17+,Paid,Developer D,2024-09-25,7.0 and up,2.5,No,Yes,1009639.82,3.63
+app90345,App_5235,Travel,2.9,366486,4301433,425.3,0.0,Teen,Free,Developer E,2024-02-14,6.0 and up,5.1,No,No,1384826.15,7.36
+app63677,App_7159,Education,4.5,393610,2835753,191.38,0.0,Teen,Free,Developer D,2024-07-09,9.0 and up,3.2,Yes,No,69414.83,1.68
+app16602,App_1494,Game,2.0,116963,2223177,43.09,0.0,Everyone 10+,Free,Developer B,2024-10-20,6.0 and up,4.0,No,Yes,178416.23,4.02
+app98175,App_9096,Photography,2.7,429703,435192,408.75,0.0,Teen,Free,Developer H,2024-11-30,5.0 and up,5.1,No,Yes,157911.83,1.05
+app32757,App_5388,Travel,4.6,470134,2785131,227.97,10.35,Teen,Paid,Developer J,2024-11-06,8.0 and up,3.2,No,No,28945994.87,2.4
+app38580,App_7447,Travel,2.4,139344,7637543,449.31,7.45,Mature 17+,Paid,Developer E,2024-01-11,9.0 and up,5.1,Yes,No,63775971.02,2.37
+app80448,App_3694,Photography,1.5,69960,8331781,293.32,1.73,Everyone 10+,Paid,Developer F,2024-01-12,4.1 and up,7.4,Yes,No,14531409.55,8.22
+app31608,App_6706,Education,4.8,458348,521651,397.75,0.0,Everyone,Free,Developer F,2024-02-09,8.0 and up,3.2,Yes,No,91907.67,4.42
+app80315,App_3575,Music,3.0,8221,238721,7.2,17.08,Everyone 10+,Paid,Developer C,2024-09-17,5.0 and up,5.1,Yes,No,4155648.51,8.93
+app35313,App_6711,Travel,2.8,464018,2844579,469.22,18.93,Teen,Paid,Developer J,2024-04-18,9.0 and up,6.3,No,Yes,54150321.77,6.73
+app41437,App_2493,Shopping,3.9,466164,5144419,304.48,3.28,Everyone,Paid,Developer D,2024-08-21,7.0 and up,7.4,No,Yes,18202873.76,8.36
+app40927,App_4180,Finance,4.2,85797,6146120,11.77,0.0,Everyone 10+,Free,Developer F,2024-09-28,8.0 and up,1.0,Yes,No,4705560.39,9.51
+app39758,App_6457,Travel,1.6,5713,1315636,169.86,4.0,Mature 17+,Paid,Developer B,2024-04-11,6.0 and up,2.5,No,Yes,5262544.0,8.99
+app60523,App_4488,Shopping,3.4,414133,9187380,138.99,1.58,Everyone 10+,Paid,Developer C,2024-10-14,10.0 and up,2.5,Yes,Yes,19221644.63,2.9
+app74852,App_5732,Game,3.5,300325,4934529,95.38,17.35,Everyone,Paid,Developer F,2024-07-15,8.0 and up,1.0,No,Yes,85903700.69,5.58
+app89734,App_5043,Shopping,1.6,80523,5829497,422.2,0.0,Everyone,Free,Developer C,2024-02-04,7.0 and up,2.5,Yes,No,1595604.42,8.03
+app66724,App_8859,Social,4.4,169378,2168526,115.73,0.0,Everyone,Free,Developer E,2024-08-23,5.0 and up,5.1,Yes,Yes,839680.67,9.71
+app77381,App_9451,Social,4.2,469770,3592695,12.06,0.0,Mature 17+,Free,Developer G,2024-02-18,6.0 and up,1.0,No,Yes,1985897.88,1.82
+app28209,App_9836,Social,2.1,354065,8148092,30.34,0.0,Everyone,Free,Developer B,2024-11-29,10.0 and up,2.5,Yes,Yes,2275795.05,5.04
+app32454,App_9169,Education,2.4,476661,7503233,487.33,0.0,Teen,Free,Developer D,2024-07-28,6.0 and up,5.1,No,Yes,2972684.54,2.76
+app91889,App_7641,Education,2.1,164223,9710037,64.11,8.73,Everyone,Paid,Developer D,2024-10-17,6.0 and up,6.3,Yes,No,86807179.13,9.49
+app79243,App_6815,Music,4.5,473171,6193595,62.64,0.0,Teen,Free,Developer F,2024-04-05,8.0 and up,1.0,Yes,No,2360946.43,9.19
+app96953,App_1357,Productivity,2.6,148962,1160455,465.48,0.0,Teen,Free,Developer A,2024-05-18,10.0 and up,4.0,No,No,239626.4,6.84
+app20653,App_4046,Music,1.4,140077,991477,245.2,5.54,Teen,Paid,Developer H,2024-11-14,7.0 and up,3.2,Yes,No,5568649.23,2.66
+app40366,App_6952,Finance,3.5,152522,1314232,141.27,0.0,Teen,Free,Developer B,2024-12-10,8.0 and up,2.5,Yes,No,8242.91,4.21
+app60197,App_1144,Health & Fitness,2.9,77600,4023319,185.52,0.0,Teen,Free,Developer F,2024-05-29,6.0 and up,4.0,No,Yes,358051.64,9.41
+app78688,App_3936,Productivity,1.2,276169,422050,103.25,0.63,Mature 17+,Paid,Developer E,2024-09-06,7.0 and up,2.5,Yes,Yes,389847.21,1.9
+app62751,App_6235,Education,3.1,30190,4336221,407.49,7.44,Everyone 10+,Paid,Developer D,2024-11-12,8.0 and up,1.0,Yes,No,33914776.88,3.11
+app27955,App_3125,Game,3.9,472433,2075301,415.31,0.0,Everyone,Free,Developer D,2024-07-22,7.0 and up,6.3,No,No,83601.44,4.68
+app75508,App_9294,Health & Fitness,2.5,412148,7269704,183.12,17.83,Teen,Paid,Developer I,2024-07-20,10.0 and up,7.4,No,Yes,130561367.13,6.25
+app10052,App_2746,Music,3.2,402140,6637487,196.19,0.0,Everyone,Free,Developer I,2024-04-30,4.1 and up,2.5,Yes,Yes,2804152.02,3.96
+app78301,App_8233,Game,2.3,56660,8210486,8.3,15.26,Everyone,Paid,Developer H,2024-08-01,4.1 and up,4.0,Yes,No,129469345.6,4.75
+app97682,App_1048,Game,4.4,327964,935936,110.35,8.47,Mature 17+,Paid,Developer D,2024-03-16,4.1 and up,4.0,No,No,8102045.56,7.27
+app85388,App_7847,Education,1.4,8450,8504157,54.3,13.68,Mature 17+,Paid,Developer J,2024-05-07,5.0 and up,1.0,Yes,No,118797493.34,5.76
+app41632,App_5290,Shopping,4.0,401299,4231862,256.13,0.31,Teen,Paid,Developer F,2024-08-09,10.0 and up,3.2,Yes,Yes,1641178.89,8.67
+app60924,App_7057,Game,2.2,402393,7514580,400.29,0.0,Mature 17+,Free,Developer A,2024-09-03,4.1 and up,1.0,Yes,No,2827608.48,9.48
+app96658,App_8068,Music,3.6,177730,5638828,158.75,0.0,Teen,Free,Developer E,2024-07-01,6.0 and up,2.5,Yes,Yes,341097.12,1.26
+app50300,App_8518,Photography,3.7,282893,3380870,430.59,0.0,Everyone,Free,Developer G,2024-11-17,5.0 and up,6.3,Yes,No,2645587.52,8.47
+app54579,App_8869,Social,2.4,376523,6724636,9.57,0.0,Teen,Free,Developer A,2024-09-23,6.0 and up,7.4,No,Yes,1163109.44,6.5
+app77430,App_6429,Travel,4.5,66384,6223385,214.36,2.78,Teen,Paid,Developer B,2024-03-25,7.0 and up,5.1,Yes,No,19051287.46,7.17
+app27380,App_6626,Productivity,1.3,164082,5066740,202.84,0.0,Mature 17+,Free,Developer A,2024-10-15,8.0 and up,1.0,Yes,Yes,3979502.31,2.54
+app78214,App_5851,Health & Fitness,2.5,447945,39291,448.18,0.0,Mature 17+,Free,Developer D,2024-02-04,6.0 and up,6.3,No,Yes,31281.31,1.58
+app80274,App_3499,Travel,2.6,108772,7352490,441.18,0.0,Everyone 10+,Free,Developer J,2024-03-31,9.0 and up,6.3,No,Yes,2052937.82,2.26
+app89546,App_6323,Finance,3.5,104894,9349191,273.17,0.0,Everyone,Free,Developer I,2024-08-29,9.0 and up,5.1,Yes,Yes,2294862.83,8.2
+app67887,App_8257,Photography,1.3,460572,7254715,213.52,12.49,Everyone,Paid,Developer J,2024-09-13,5.0 and up,5.1,Yes,No,92263225.93,1.12
+app90909,App_3287,Education,4.3,218115,9877696,437.97,17.82,Everyone 10+,Paid,Developer C,2024-09-25,4.1 and up,2.5,Yes,No,177714275.83,1.53
+app69259,App_8697,Social,2.5,325138,8390736,356.84,0.0,Teen,Free,Developer J,2024-10-09,8.0 and up,7.4,Yes,Yes,485506.68,4.33
+app91131,App_2755,Photography,4.9,348034,8199680,304.98,9.61,Teen,Paid,Developer G,2024-10-10,7.0 and up,7.4,No,No,80630091.77,9.09
+app44334,App_2098,Health & Fitness,3.7,202546,6009771,26.5,5.87,Teen,Paid,Developer G,2024-04-09,9.0 and up,1.0,No,Yes,35395690.17,3.37
+app96094,App_7036,Social,1.3,184481,9839445,454.66,3.87,Mature 17+,Paid,Developer A,2024-08-25,9.0 and up,2.5,No,Yes,42148240.62,8.72
+app32318,App_1275,Shopping,1.2,360291,2364020,96.37,0.0,Mature 17+,Free,Developer H,2024-06-13,9.0 and up,5.1,No,No,124514.89,9.67
+app83872,App_1701,Productivity,4.6,389939,8803146,107.57,6.76,Everyone 10+,Paid,Developer B,2024-03-07,10.0 and up,7.4,No,No,59663147.64,9.78
+app83075,App_7660,Health & Fitness,3.3,485175,6883778,235.06,0.0,Everyone,Free,Developer J,2024-06-06,8.0 and up,3.2,Yes,Yes,709344.94,4.45
+app23085,App_5405,Game,4.0,425828,5843622,221.27,0.0,Everyone 10+,Free,Developer H,2024-09-25,4.1 and up,7.4,No,No,469759.37,7.2
+app33331,App_1382,Travel,1.5,382525,5333183,358.25,0.0,Everyone,Free,Developer J,2024-02-29,4.1 and up,1.0,Yes,No,3590609.02,1.63
+app12729,App_1319,Travel,4.1,310838,4202767,407.2,0.0,Everyone,Free,Developer C,2024-09-26,5.0 and up,1.0,Yes,Yes,98431.52,7.46
+app22546,App_6111,Productivity,2.2,85261,8715107,112.5,7.61,Teen,Paid,Developer E,2024-06-17,4.1 and up,7.4,Yes,Yes,71966848.95,1.72
+app74460,App_2756,Music,1.9,131048,8583583,395.81,0.0,Everyone,Free,Developer C,2024-07-11,10.0 and up,1.0,No,No,1315097.58,1.75
+app19542,App_4903,Shopping,3.0,57415,5661358,455.1,0.0,Teen,Free,Developer E,2024-03-15,6.0 and up,1.0,No,No,612059.28,9.64
+app90034,App_8950,Social,4.5,233483,7461721,305.82,0.0,Everyone 10+,Free,Developer H,2024-04-18,9.0 and up,1.0,Yes,No,0.0,5.67
+app30411,App_3303,Music,2.0,342307,2136992,99.84,1.65,Everyone 10+,Paid,Developer B,2024-02-19,5.0 and up,5.1,No,No,4111513.91,8.12
+app19942,App_5402,Travel,2.0,486259,2714005,103.98,17.13,Teen,Paid,Developer G,2024-08-30,10.0 and up,2.5,No,Yes,46490905.65,4.62
+app43750,App_7916,Shopping,3.2,76986,1876585,223.38,0.34,Teen,Paid,Developer G,2024-01-19,8.0 and up,3.2,No,Yes,869033.79,4.03
+app29711,App_5243,Health & Fitness,4.3,314792,6899433,439.3,2.0,Everyone 10+,Paid,Developer B,2024-12-05,7.0 and up,4.0,Yes,Yes,16606874.89,9.59
+app58941,App_6292,Game,3.1,411596,2170084,458.33,3.58,Teen,Paid,Developer A,2024-05-22,6.0 and up,7.4,Yes,No,8526758.51,1.93
+app34569,App_8827,Finance,4.3,238098,6052811,193.71,4.58,Mature 17+,Paid,Developer F,2024-01-14,8.0 and up,4.0,No,Yes,29211166.62,2.88
+app92464,App_9942,Game,3.0,472286,560736,450.64,0.0,Mature 17+,Free,Developer H,2024-07-22,4.1 and up,7.4,Yes,Yes,101034.76,1.8
+app77025,App_2802,Photography,2.3,297674,7349189,274.12,0.0,Everyone 10+,Free,Developer H,2024-02-10,6.0 and up,5.1,No,No,0.0,1.09
+app11727,App_4325,Social,3.5,467168,8654404,47.01,0.0,Everyone,Free,Developer J,2024-10-22,4.1 and up,2.5,No,Yes,7500907.25,7.09
+app89896,App_7836,Social,4.1,337188,9872171,273.8,18.52,Everyone 10+,Paid,Developer G,2024-01-04,4.1 and up,5.1,Yes,Yes,182869957.56,5.88
+app18319,App_3739,Social,1.1,242342,3686512,58.53,0.0,Everyone 10+,Free,Developer B,2024-11-15,8.0 and up,3.2,Yes,No,2326094.26,9.69
+app41150,App_5860,Finance,2.2,117769,1972335,431.53,0.0,Everyone,Free,Developer J,2024-12-26,9.0 and up,4.0,Yes,No,336986.09,2.02
+app98760,App_3717,Photography,3.3,270397,4007710,295.44,14.58,Everyone 10+,Paid,Developer D,2024-07-21,10.0 and up,3.2,No,No,59094742.06,3.07
+app83066,App_6787,Education,1.6,498673,426345,447.45,0.0,Mature 17+,Free,Developer A,2024-07-19,4.1 and up,6.3,Yes,No,12704.34,6.7
+app41714,App_2081,Finance,4.9,187939,9643510,283.21,0.0,Teen,Free,Developer A,2024-05-19,8.0 and up,2.5,Yes,No,5721842.16,5.74
+app99855,App_3071,Productivity,4.2,307587,9266284,119.81,17.35,Mature 17+,Paid,Developer B,2024-10-12,10.0 and up,5.1,No,Yes,161130603.65,1.64
+app16316,App_8948,Game,1.7,270609,5764802,336.71,13.53,Everyone 10+,Paid,Developer D,2024-01-01,4.1 and up,3.2,Yes,No,78438775.34,6.26
+app10584,App_5378,Game,3.7,180413,7717040,391.44,10.58,Everyone,Paid,Developer A,2024-06-24,4.1 and up,3.2,No,No,81646283.2,8.94
+app11226,App_5112,Game,4.8,268681,7883546,456.63,0.0,Mature 17+,Free,Developer B,2024-12-06,4.1 and up,4.0,Yes,No,519970.91,8.39
+app17035,App_4474,Travel,2.5,169518,8606628,479.64,1.34,Everyone,Paid,Developer H,2024-12-28,8.0 and up,2.5,No,Yes,13824025.07,5.0
+app73730,App_3916,Finance,1.2,291664,4118078,238.25,0.0,Everyone,Free,Developer G,2024-12-11,7.0 and up,3.2,No,Yes,0.0,5.11
+app89341,App_1727,Game,2.3,364114,4795044,244.78,0.0,Everyone 10+,Free,Developer H,2024-05-12,8.0 and up,1.0,Yes,No,3214949.97,5.27
+app21737,App_7187,Game,2.9,431110,1211265,275.79,14.15,Everyone,Paid,Developer H,2024-08-19,4.1 and up,2.5,No,No,17888884.54,7.55
+app69837,App_9727,Game,3.9,67986,4750142,291.71,0.26,Everyone,Paid,Developer D,2024-06-22,7.0 and up,4.0,Yes,Yes,3645859.23,9.79
+app90240,App_4499,Shopping,4.0,58757,1475509,131.1,15.89,Everyone 10+,Paid,Developer I,2024-12-19,6.0 and up,4.0,No,Yes,23479799.39,6.11
+app70695,App_1700,Photography,1.7,43787,4939567,472.51,0.0,Everyone,Free,Developer E,2024-09-26,8.0 and up,5.1,Yes,Yes,600296.07,2.22
+app64021,App_2130,Social,3.3,307100,2154525,459.72,12.53,Everyone,Paid,Developer B,2024-11-12,10.0 and up,5.1,No,No,26996198.25,2.17
+app92198,App_6977,Music,2.3,15403,3435870,347.21,0.0,Mature 17+,Free,Developer J,2024-12-31,8.0 and up,5.1,No,No,1861150.89,3.04
+app34456,App_7375,Game,2.7,10575,6510147,113.02,15.35,Teen,Paid,Developer E,2024-01-05,6.0 and up,4.0,No,No,103824298.66,6.45
+app19660,App_8127,Travel,1.7,127653,1631613,472.75,18.09,Everyone 10+,Paid,Developer J,2024-08-29,8.0 and up,2.5,Yes,No,30350352.08,2.76
+app72549,App_6817,Education,4.9,220213,436455,126.82,0.0,Teen,Free,Developer B,2024-10-17,7.0 and up,3.2,No,No,130345.05,6.58
+app55552,App_5725,Health & Fitness,5.0,104163,5255607,380.3,17.12,Everyone 10+,Paid,Developer F,2024-03-26,9.0 and up,6.3,Yes,Yes,91187022.24,8.24
+app61342,App_3611,Music,3.6,189090,3567136,87.56,0.0,Everyone 10+,Free,Developer B,2024-02-10,9.0 and up,7.4,Yes,No,495737.85,1.48
+app73067,App_8441,Health & Fitness,3.5,170263,2299968,102.13,16.05,Mature 17+,Paid,Developer A,2024-11-23,9.0 and up,1.0,Yes,No,37610095.24,5.51
+app96803,App_8470,Social,3.0,361820,1552243,92.84,7.78,Everyone 10+,Paid,Developer G,2024-02-17,4.1 and up,7.4,No,No,12232049.53,8.79
+app86738,App_6422,Social,3.9,251175,3162607,56.84,13.92,Everyone 10+,Paid,Developer H,2024-07-09,10.0 and up,6.3,No,No,44188623.35,1.33
+app83531,App_7975,Shopping,3.7,162470,2582627,128.66,7.43,Everyone,Paid,Developer A,2024-09-21,10.0 and up,6.3,Yes,No,20104869.54,4.66
+app66232,App_2047,Finance,2.2,419419,21605,330.75,0.0,Everyone 10+,Free,Developer B,2024-06-17,5.0 and up,1.0,Yes,No,8467.87,4.35
+app63583,App_8269,Social,4.7,196169,1049833,128.37,10.87,Everyone 10+,Paid,Developer I,2024-12-24,6.0 and up,3.2,No,Yes,11596002.87,1.56
+app43584,App_9307,Finance,3.0,320483,7970090,186.59,0.0,Teen,Free,Developer H,2024-04-13,6.0 and up,5.1,No,No,5801429.87,1.39
+app94718,App_8657,Travel,5.0,342323,5716006,91.09,0.45,Teen,Paid,Developer D,2024-12-26,5.0 and up,3.2,No,Yes,5765436.7,5.86
+app87347,App_1612,Productivity,3.7,351860,9499609,8.78,12.89,Teen,Paid,Developer F,2024-02-11,8.0 and up,5.1,No,No,123682962.85,2.38
+app56277,App_5050,Shopping,3.6,36673,9869320,247.55,17.76,Everyone 10+,Paid,Developer H,2024-03-16,6.0 and up,6.3,No,Yes,180173069.21,8.15
+app46712,App_1216,Travel,2.3,260791,5518826,67.05,0.0,Teen,Free,Developer F,2024-05-07,6.0 and up,1.0,Yes,Yes,0.0,5.12
+app29078,App_3759,Travel,2.5,356581,3349758,202.44,0.0,Teen,Free,Developer E,2024-09-29,4.1 and up,5.1,No,Yes,2108970.69,8.67
+app96447,App_3410,Shopping,2.3,222518,9639597,250.09,5.04,Everyone,Paid,Developer B,2024-11-28,9.0 and up,6.3,Yes,No,54440051.03,2.21
+app13064,App_8127,Travel,3.1,372319,7626371,244.24,8.31,Everyone 10+,Paid,Developer G,2024-02-27,8.0 and up,7.4,No,Yes,63375143.01,5.8
+app24769,App_4562,Productivity,2.5,480123,3081783,291.41,0.0,Everyone 10+,Free,Developer G,2024-10-18,6.0 and up,7.4,No,No,505669.87,5.21
+app60761,App_2947,Education,1.9,51281,832354,212.87,17.41,Teen,Paid,Developer F,2024-01-05,10.0 and up,6.3,No,No,14491283.14,7.55
+app99729,App_8307,Travel,3.5,184362,9242986,23.71,8.02,Everyone,Paid,Developer H,2024-07-10,7.0 and up,4.0,Yes,Yes,75632180.41,7.79
+app19639,App_8196,Photography,3.0,449478,2168174,28.2,0.0,Mature 17+,Free,Developer H,2024-12-04,4.1 and up,5.1,No,No,190659.72,7.38
+app40797,App_3710,Music,1.4,8260,441542,290.29,14.98,Everyone,Paid,Developer E,2024-04-06,6.0 and up,5.1,No,Yes,6837396.56,8.61
+app56903,App_2779,Music,2.6,106580,5878189,345.1,11.56,Everyone 10+,Paid,Developer C,2024-10-12,9.0 and up,5.1,No,No,68845882.58,8.78
+app35886,App_5274,Education,1.2,161603,9795685,89.88,3.48,Everyone 10+,Paid,Developer C,2024-11-22,7.0 and up,1.0,Yes,No,34088983.8,9.7
+app40943,App_9518,Productivity,3.8,267011,8721357,41.11,14.53,Everyone,Paid,Developer J,2024-09-21,7.0 and up,3.2,Yes,No,132398500.28,2.18
+app61311,App_2291,Education,1.2,313141,5653430,41.16,16.27,Everyone 10+,Paid,Developer F,2024-03-21,6.0 and up,7.4,Yes,Yes,96437907.44,2.69
+app37950,App_5254,Travel,2.9,74538,3076040,165.9,0.0,Teen,Free,Developer G,2024-05-28,9.0 and up,4.0,No,Yes,0.0,3.16
+app34873,App_9278,Health & Fitness,2.1,442683,4916401,348.44,3.88,Teen,Paid,Developer H,2024-09-25,10.0 and up,7.4,No,No,19898165.4,6.24
+app73280,App_9472,Health & Fitness,1.1,63409,5455403,311.49,0.0,Everyone,Free,Developer G,2024-04-18,5.0 and up,4.0,No,Yes,519619.16,8.69
+app76665,App_7825,Finance,2.1,488131,9821886,184.94,0.0,Mature 17+,Free,Developer I,2024-07-26,5.0 and up,1.0,Yes,Yes,941014.57,7.69
+app76266,App_7509,Health & Fitness,2.1,176239,4852465,472.24,0.17,Everyone,Paid,Developer D,2024-07-17,9.0 and up,6.3,No,No,2425963.25,1.18
+app28450,App_8059,Shopping,4.5,279541,2745824,381.29,0.0,Teen,Free,Developer D,2024-11-19,9.0 and up,5.1,No,Yes,62900.37,4.82
+app97167,App_3659,Game,1.3,371946,8605521,383.29,0.0,Mature 17+,Free,Developer D,2024-03-10,5.0 and up,3.2,No,No,1894733.76,6.93
+app58589,App_2870,Game,4.1,354670,7935432,309.22,9.86,Everyone,Paid,Developer B,2024-11-26,8.0 and up,3.2,No,No,81605801.93,8.1
+app70057,App_9340,Finance,3.3,491958,9911323,228.79,5.83,Everyone,Paid,Developer H,2024-04-14,10.0 and up,3.2,Yes,No,58027112.55,4.72
+app52048,App_7352,Game,4.2,163266,7620249,395.32,7.89,Everyone,Paid,Developer E,2024-05-08,8.0 and up,6.3,Yes,No,63699992.34,5.99
+app35584,App_1264,Photography,2.8,102775,5362722,448.48,0.0,Everyone,Free,Developer B,2024-11-06,6.0 and up,5.1,Yes,Yes,4491491.49,5.58
+app27376,App_4908,Finance,2.0,98734,243692,445.6,7.15,Everyone,Paid,Developer E,2024-05-06,9.0 and up,1.0,Yes,Yes,1814106.72,2.31
+app18053,App_7608,Social,1.0,371598,765534,73.01,0.0,Teen,Free,Developer C,2024-06-30,5.0 and up,3.2,No,No,84068.34,9.75
+app91908,App_4805,Travel,3.9,138250,6495469,241.96,0.0,Mature 17+,Free,Developer C,2024-04-07,7.0 and up,1.0,Yes,Yes,2369967.67,2.6
+app89908,App_9789,Game,3.2,81818,9793990,448.72,17.37,Everyone,Paid,Developer F,2024-02-04,7.0 and up,1.0,No,Yes,170121606.3,1.75
+app51216,App_3210,Music,2.9,323742,9127735,34.59,0.0,Everyone 10+,Free,Developer G,2024-09-22,7.0 and up,1.0,No,No,347511.37,4.74
+app32752,App_6678,Music,1.1,185028,7478035,296.89,0.0,Mature 17+,Free,Developer B,2024-07-14,5.0 and up,4.0,No,No,645852.11,5.69
+app41224,App_6107,Social,2.5,307974,9509510,298.89,0.0,Everyone,Free,Developer B,2024-03-31,8.0 and up,7.4,No,No,483077.45,5.95
+app98170,App_6035,Shopping,3.3,173247,3113105,141.6,18.14,Everyone 10+,Paid,Developer C,2024-01-09,10.0 and up,5.1,Yes,No,58437570.1,2.04
+app61180,App_8136,Travel,3.3,233442,4324269,432.08,0.0,Teen,Free,Developer B,2024-06-28,8.0 and up,2.5,No,No,2963463.02,5.6
+app64296,App_9417,Productivity,1.7,322702,9490738,27.02,0.0,Teen,Free,Developer J,2024-01-07,7.0 and up,4.0,No,No,1856478.56,3.41
+app20240,App_6736,Photography,4.4,51102,6628460,122.22,4.39,Everyone,Paid,Developer I,2024-01-17,5.0 and up,4.0,Yes,No,31387583.43,1.17
+app73718,App_4613,Health & Fitness,3.7,323374,3490736,361.82,0.0,Everyone 10+,Free,Developer J,2024-07-03,6.0 and up,7.4,No,No,402565.59,1.82
+app26958,App_5009,Finance,4.2,492630,5419332,17.96,15.5,Mature 17+,Paid,Developer A,2024-09-03,10.0 and up,3.2,No,Yes,84748553.7,1.16
+app35656,App_9966,Finance,1.7,17062,5221751,81.42,0.0,Everyone,Free,Developer G,2024-02-16,5.0 and up,2.5,Yes,No,717580.14,1.35
+app24387,App_3175,Shopping,4.1,482332,4026346,74.51,0.0,Teen,Free,Developer H,2024-10-06,4.1 and up,7.4,No,Yes,2354559.93,5.95
+app73294,App_6302,Finance,3.9,283095,2259509,368.88,0.0,Everyone 10+,Free,Developer E,2024-07-03,8.0 and up,7.4,Yes,No,279274.37,7.77
+app43153,App_4075,Education,4.5,140528,4708005,86.81,0.0,Mature 17+,Free,Developer B,2024-11-29,7.0 and up,5.1,No,No,2009401.14,7.11
+app75484,App_3219,Game,4.3,138636,8416893,15.62,0.0,Everyone,Free,Developer A,2024-12-10,8.0 and up,6.3,Yes,Yes,1089648.14,4.64
+app94097,App_9058,Game,2.1,119572,247407,247.25,0.0,Mature 17+,Free,Developer B,2024-02-22,8.0 and up,3.2,Yes,Yes,5275.7,1.04
+app65207,App_8792,Social,2.0,103198,6396757,28.42,15.04,Teen,Paid,Developer F,2024-05-03,6.0 and up,1.0,No,No,99117620.56,2.93
+app16681,App_7356,Travel,2.7,391510,5105042,393.09,0.0,Everyone,Free,Developer I,2024-08-19,9.0 and up,6.3,Yes,No,3047374.28,8.95
+app88567,App_2173,Social,4.5,257686,4395185,22.85,0.0,Everyone,Free,Developer E,2024-08-21,5.0 and up,7.4,No,Yes,131007.65,2.7
+app29446,App_6601,Health & Fitness,4.7,103105,1201903,420.95,3.91,Teen,Paid,Developer G,2024-06-22,6.0 and up,3.2,No,No,5125859.93,6.42
+app82521,App_5512,Music,4.8,78047,4699477,319.4,16.03,Everyone 10+,Paid,Developer F,2024-12-24,10.0 and up,6.3,No,Yes,78841424.91,6.4
+app89176,App_4148,Health & Fitness,3.7,252874,6881778,204.52,0.0,Everyone,Free,Developer D,2024-02-02,4.1 and up,3.2,Yes,No,2421990.5,6.29
+app59903,App_3434,Music,2.9,371952,6431678,204.76,5.04,Mature 17+,Paid,Developer J,2024-12-17,8.0 and up,6.3,Yes,Yes,35065035.2,1.22
+app73808,App_2426,Education,4.1,203638,1894574,13.38,18.85,Everyone 10+,Paid,Developer J,2024-12-06,10.0 and up,3.2,No,Yes,36594584.54,9.11
+app90783,App_3844,Travel,1.5,214532,8867011,331.2,0.0,Mature 17+,Free,Developer I,2024-11-27,8.0 and up,6.3,No,Yes,0.0,9.66
+app51891,App_9975,Travel,3.9,424715,8652645,105.95,0.0,Teen,Free,Developer C,2024-10-02,6.0 and up,3.2,No,No,0.0,9.06
+app27695,App_9151,Health & Fitness,3.8,374688,3130949,294.44,7.77,Teen,Paid,Developer B,2024-06-21,10.0 and up,6.3,No,Yes,25394143.13,5.4
+app98563,App_2109,Education,3.0,216634,6606489,53.43,11.81,Mature 17+,Paid,Developer B,2024-07-22,6.0 and up,1.0,No,No,79633818.59,2.52
+app91333,App_1648,Finance,1.6,144005,2763890,414.02,16.7,Everyone 10+,Paid,Developer C,2024-07-15,5.0 and up,2.5,Yes,No,46611153.3,7.17
+app95141,App_3843,Photography,1.6,336797,6669100,382.58,0.0,Everyone,Free,Developer C,2024-09-05,5.0 and up,2.5,No,No,3247125.19,9.19
+app73715,App_4525,Photography,4.9,143090,362815,126.88,1.38,Mature 17+,Paid,Developer A,2024-06-08,10.0 and up,4.0,No,No,526157.77,7.81
+app98723,App_5713,Shopping,2.1,315592,9408608,16.13,0.0,Everyone 10+,Free,Developer G,2024-08-09,10.0 and up,7.4,Yes,No,299457.53,6.87
+app69992,App_3894,Travel,4.1,54663,54096,469.47,2.53,Everyone,Paid,Developer E,2024-01-10,8.0 and up,1.0,Yes,No,140238.46,1.57
+app83834,App_8119,Health & Fitness,3.8,439122,6155305,59.02,0.0,Everyone 10+,Free,Developer A,2024-03-20,8.0 and up,1.0,No,No,698300.95,6.3
+app62838,App_5253,Finance,4.7,162821,7388835,246.3,2.73,Everyone 10+,Paid,Developer I,2024-10-08,10.0 and up,4.0,No,No,21778571.21,5.86
+app68064,App_8044,Health & Fitness,2.1,110175,5377842,140.31,13.65,Mature 17+,Paid,Developer F,2024-01-17,9.0 and up,4.0,Yes,Yes,76149209.23,8.56
+app62798,App_8280,Game,2.3,179719,3842646,170.97,0.0,Everyone,Free,Developer H,2024-04-02,6.0 and up,5.1,No,No,1697392.54,2.9
+app69431,App_7922,Game,2.5,455095,3968962,157.61,0.0,Mature 17+,Free,Developer D,2024-09-08,6.0 and up,5.1,Yes,Yes,2650927.25,9.29
+app55549,App_9163,Music,4.0,210489,8026730,165.88,5.24,Teen,Paid,Developer B,2024-11-18,9.0 and up,2.5,No,No,43383377.52,2.23
+app41180,App_3900,Photography,4.5,477931,1388180,428.67,0.0,Mature 17+,Free,Developer B,2024-05-30,4.1 and up,4.0,Yes,No,218886.04,3.56
+app14361,App_5455,Game,1.7,150910,3517216,347.98,18.04,Everyone,Paid,Developer F,2024-04-05,6.0 and up,1.0,No,No,63734493.93,4.22
+app25117,App_6182,Education,2.1,297818,133460,422.97,19.8,Everyone 10+,Paid,Developer J,2024-05-17,4.1 and up,4.0,Yes,No,2676400.7,5.88
+app39696,App_4714,Social,2.8,38378,6893948,86.56,0.0,Everyone,Free,Developer B,2024-10-10,7.0 and up,3.2,No,Yes,4647130.19,1.7
+app44605,App_2774,Shopping,2.7,125810,1559661,281.25,10.23,Everyone,Paid,Developer D,2024-08-12,5.0 and up,5.1,No,No,16283595.54,1.67
+app65637,App_1228,Game,1.5,475359,6929844,333.69,0.0,Everyone 10+,Free,Developer E,2024-11-18,7.0 and up,3.2,No,No,90419.64,6.03
+app66707,App_2103,Education,4.6,283181,3551797,198.38,0.0,Everyone 10+,Free,Developer C,2024-02-28,5.0 and up,1.0,Yes,Yes,2188882.35,1.66
+app16487,App_3750,Finance,3.0,13222,4212124,420.6,0.0,Everyone,Free,Developer F,2024-07-20,5.0 and up,1.0,Yes,Yes,205787.08,1.48
+app29860,App_8019,Game,3.0,163225,6836963,269.32,0.0,Teen,Free,Developer F,2024-09-02,9.0 and up,2.5,Yes,No,8721.71,8.48
+app48090,App_2577,Music,1.0,141603,6340675,82.11,10.55,Everyone 10+,Paid,Developer J,2024-11-24,10.0 and up,6.3,No,Yes,67201805.88,1.81
+app64543,App_5696,Finance,4.0,384133,8929672,89.82,16.15,Everyone,Paid,Developer A,2024-05-08,9.0 and up,1.0,Yes,Yes,145635399.37,6.07
+app20295,App_4637,Game,3.4,102612,9036842,142.77,0.0,Everyone 10+,Free,Developer F,2024-06-28,5.0 and up,3.2,No,No,3612986.61,9.58
+app45266,App_2026,Education,4.0,284588,1336313,387.46,0.0,Mature 17+,Free,Developer B,2024-10-30,9.0 and up,4.0,No,Yes,168659.98,4.17
+app95072,App_5865,Photography,4.0,30501,6900263,60.72,0.0,Teen,Free,Developer E,2024-01-29,6.0 and up,6.3,Yes,No,5503720.19,5.7
+app27269,App_5570,Travel,3.4,294986,3276365,414.09,0.0,Mature 17+,Free,Developer C,2024-06-17,4.1 and up,3.2,No,Yes,324936.75,2.44
+app88111,App_1861,Health & Fitness,3.6,268891,5527986,12.03,0.0,Mature 17+,Free,Developer F,2024-08-04,9.0 and up,6.3,Yes,No,2208456.7,6.76
+app81270,App_6554,Music,2.4,238090,2294636,443.21,4.29,Everyone,Paid,Developer G,2024-11-21,6.0 and up,2.5,No,Yes,9925456.42,5.29
+app12124,App_9130,Health & Fitness,3.0,65435,9315706,104.55,0.0,Mature 17+,Free,Developer B,2024-07-28,8.0 and up,7.4,Yes,No,215848.8,8.69
+app37674,App_6759,Game,2.3,204274,3466324,293.29,18.04,Mature 17+,Paid,Developer A,2024-04-21,6.0 and up,3.2,No,Yes,62932568.79,4.59
+app42631,App_4809,Shopping,1.1,114433,586520,55.83,0.0,Everyone,Free,Developer A,2024-09-24,5.0 and up,6.3,Yes,No,213925.91,6.17
+app51847,App_5106,Health & Fitness,1.8,176027,3381597,132.03,0.0,Mature 17+,Free,Developer C,2024-03-21,10.0 and up,6.3,No,No,178025.28,8.59
+app88414,App_3535,Travel,2.5,102758,5161640,78.84,13.5,Mature 17+,Paid,Developer A,2024-04-27,6.0 and up,7.4,No,No,70487623.46,9.32
+app23354,App_3435,Health & Fitness,3.5,52114,2510861,233.99,0.0,Mature 17+,Free,Developer F,2024-03-07,10.0 and up,2.5,Yes,Yes,197524.35,5.11
+app36411,App_1726,Music,3.9,170682,2353318,53.18,0.0,Everyone,Free,Developer B,2024-12-15,8.0 and up,1.0,No,No,150618.77,2.89
+app20707,App_1351,Social,1.1,90497,9176135,41.11,18.33,Mature 17+,Paid,Developer I,2024-01-23,9.0 and up,5.1,No,Yes,171370732.72,2.2
+app47350,App_5974,Social,2.5,126457,4945123,135.41,0.0,Mature 17+,Free,Developer E,2024-10-18,9.0 and up,3.2,No,Yes,0.0,1.08
+app65968,App_4707,Finance,1.7,41181,3510965,313.01,4.71,Everyone 10+,Paid,Developer G,2024-02-03,6.0 and up,6.3,No,Yes,16986676.12,1.37
+app95278,App_9515,Travel,1.1,66046,1398729,481.84,5.63,Everyone 10+,Paid,Developer D,2024-10-15,10.0 and up,3.2,No,No,8096692.73,3.45
+app91631,App_3675,Social,1.1,35905,705996,409.05,0.0,Teen,Free,Developer D,2024-08-14,7.0 and up,3.2,Yes,No,152920.81,3.73
+app96669,App_8617,Photography,4.6,217684,654016,423.63,0.0,Teen,Free,Developer B,2024-11-20,8.0 and up,4.0,Yes,Yes,32994.81,3.62
+app77493,App_1979,Health & Fitness,1.5,312185,1147475,309.83,7.02,Everyone 10+,Paid,Developer A,2024-09-02,8.0 and up,4.0,No,Yes,8130315.66,7.02
+app73512,App_8261,Shopping,3.5,404571,3465901,105.41,0.0,Everyone 10+,Free,Developer H,2024-10-27,9.0 and up,6.3,No,No,970653.79,5.39
+app88244,App_6332,Photography,3.5,66386,2837860,163.46,0.0,Everyone 10+,Free,Developer G,2024-04-16,7.0 and up,4.0,No,Yes,129744.21,9.55
+app27769,App_6636,Finance,2.6,290979,5328953,430.99,8.33,Everyone,Paid,Developer G,2024-01-29,6.0 and up,2.5,No,No,44840896.81,7.06
+app63213,App_7577,Social,5.0,96350,2745641,404.16,5.59,Everyone 10+,Paid,Developer D,2024-02-29,9.0 and up,2.5,No,No,16443583.86,9.69
+app84094,App_1681,Finance,4.9,224617,4303902,372.33,17.93,Mature 17+,Paid,Developer D,2024-09-17,9.0 and up,5.1,Yes,Yes,77488209.67,4.24
+app17131,App_6336,Productivity,2.8,416331,9843435,385.45,11.95,Everyone,Paid,Developer H,2024-10-05,10.0 and up,6.3,No,No,118425320.54,1.52
+app30157,App_5768,Social,1.3,377749,3454004,35.82,0.0,Everyone,Free,Developer E,2024-03-13,8.0 and up,3.2,No,Yes,325350.6,2.17
+app16689,App_6151,Health & Fitness,3.3,28606,2733813,238.3,0.0,Teen,Free,Developer I,2024-09-11,8.0 and up,3.2,Yes,No,352247.33,8.42
+app48852,App_3293,Social,1.5,494995,6813351,454.16,2.23,Everyone,Paid,Developer E,2024-08-20,4.1 and up,5.1,No,No,20539188.84,1.43
+app61843,App_4721,Health & Fitness,4.6,455305,8266943,74.67,0.0,Everyone 10+,Free,Developer C,2024-11-16,5.0 and up,2.5,Yes,No,1338171.32,5.21
+app11336,App_6853,Social,1.3,111595,9944602,442.66,5.04,Mature 17+,Paid,Developer E,2024-12-09,4.1 and up,1.0,Yes,No,51986917.73,2.14
+app71384,App_1388,Music,2.7,37227,2408959,118.21,14.87,Mature 17+,Paid,Developer E,2024-04-18,8.0 and up,1.0,No,Yes,36009467.94,8.47
+app24218,App_5963,Music,1.4,356581,9992686,131.17,17.63,Mature 17+,Paid,Developer E,2024-10-07,10.0 and up,7.4,Yes,No,176768288.22,1.97
+app52372,App_6735,Travel,1.3,200984,6408718,202.29,3.51,Everyone 10+,Paid,Developer A,2024-11-26,6.0 and up,3.2,Yes,Yes,22793839.34,4.25
+app19691,App_1528,Music,1.1,246135,1983527,426.22,0.0,Everyone 10+,Free,Developer C,2024-07-25,9.0 and up,3.2,Yes,No,161075.92,4.5
+app94969,App_9041,Social,3.3,58101,5228212,339.18,10.42,Teen,Paid,Developer G,2024-08-20,7.0 and up,4.0,No,No,54505972.43,2.19
+app74364,App_4792,Travel,4.4,129259,3993950,433.29,0.0,Everyone,Free,Developer I,2024-07-15,4.1 and up,5.1,No,No,0.0,9.71
+app86739,App_6528,Photography,3.8,226494,9464398,182.47,12.93,Teen,Paid,Developer F,2024-08-01,4.1 and up,7.4,Yes,Yes,123060935.32,9.38
+app38306,App_7177,Social,4.5,162322,5610032,140.59,0.0,Teen,Free,Developer C,2024-08-24,7.0 and up,4.0,Yes,Yes,486707.25,6.0
+app66165,App_8304,Health & Fitness,3.7,27013,822977,429.06,0.0,Mature 17+,Free,Developer E,2024-05-24,6.0 and up,3.2,No,No,288335.59,6.18
+app69090,App_3129,Photography,4.1,353314,9221655,196.24,0.0,Everyone,Free,Developer H,2024-11-17,4.1 and up,4.0,Yes,Yes,1920906.33,6.09
+app65482,App_4818,Travel,2.9,480099,2626340,37.89,0.0,Teen,Free,Developer F,2024-05-15,8.0 and up,5.1,No,No,523893.69,6.4
+app25002,App_5856,Travel,4.0,379255,7560372,395.85,0.0,Mature 17+,Free,Developer B,2024-12-22,4.1 and up,4.0,Yes,Yes,423836.49,8.2
+app51213,App_6669,Health & Fitness,1.5,427573,3935664,239.4,0.0,Everyone 10+,Free,Developer H,2024-05-16,6.0 and up,3.2,Yes,No,764043.08,2.62
+app16590,App_5808,Education,4.3,102128,5686112,298.38,18.21,Teen,Paid,Developer G,2024-03-14,8.0 and up,4.0,Yes,No,105357563.81,3.13
+app99724,App_9509,Game,1.9,54445,1112253,459.7,0.0,Everyone,Free,Developer C,2024-02-09,5.0 and up,4.0,No,No,450232.46,3.11
+app70023,App_8432,Shopping,1.6,269219,3396180,336.18,0.0,Everyone 10+,Free,Developer F,2024-07-23,10.0 and up,3.2,No,Yes,571191.13,5.67
+app50532,App_8386,Health & Fitness,2.0,324648,7531571,318.29,0.57,Teen,Paid,Developer B,2024-12-02,7.0 and up,7.4,No,No,6818299.9,5.03
+app87145,App_8214,Health & Fitness,2.9,76565,4663193,364.72,7.73,Teen,Paid,Developer G,2024-06-29,6.0 and up,1.0,Yes,Yes,36423209.08,7.17
+app19960,App_3191,Social,2.2,151402,8875607,155.76,13.67,Mature 17+,Paid,Developer E,2024-12-09,5.0 and up,5.1,Yes,No,123564861.66,8.5
+app72196,App_7564,Game,2.5,23957,1461156,213.91,0.0,Everyone 10+,Free,Developer F,2024-03-07,4.1 and up,5.1,No,No,838096.27,1.84
+app86080,App_2120,Health & Fitness,3.2,248083,3712900,333.12,8.14,Teen,Paid,Developer H,2024-06-20,5.0 and up,3.2,Yes,Yes,30297660.26,9.29
+app18412,App_5136,Health & Fitness,3.3,360819,4624338,331.0,0.0,Teen,Free,Developer A,2024-10-30,10.0 and up,1.0,No,Yes,862595.13,6.04
+app89499,App_3868,Finance,2.2,317063,6647045,384.22,0.0,Mature 17+,Free,Developer C,2024-10-26,4.1 and up,3.2,Yes,No,4988089.34,7.62
+app88686,App_5038,Productivity,2.3,73607,5591033,324.53,12.74,Everyone,Paid,Developer B,2024-11-19,9.0 and up,5.1,No,Yes,71510495.78,6.38
+app63199,App_3432,Education,4.3,240674,5294662,111.35,0.0,Everyone 10+,Free,Developer J,2024-04-09,4.1 and up,5.1,Yes,Yes,2453026.49,6.26
+app46038,App_3872,Finance,1.8,382251,3014989,62.22,10.95,Mature 17+,Paid,Developer A,2024-10-28,10.0 and up,5.1,Yes,Yes,34016577.79,7.69
+app31312,App_2997,Game,3.9,347749,5669357,89.78,0.0,Mature 17+,Free,Developer B,2024-08-16,5.0 and up,3.2,Yes,No,1224666.96,6.76
+app27695,App_7369,Music,1.8,422995,9788082,371.35,10.8,Everyone,Paid,Developer E,2024-01-22,5.0 and up,5.1,No,No,106377364.89,8.79
+app92852,App_2227,Productivity,3.6,468934,8535897,429.1,0.0,Everyone 10+,Free,Developer F,2024-12-15,6.0 and up,2.5,Yes,Yes,179132.13,5.22
+app34032,App_7678,Health & Fitness,2.0,299946,7104004,42.54,18.02,Everyone,Paid,Developer D,2024-09-29,4.1 and up,6.3,No,Yes,128283373.49,2.0
+app32095,App_3809,Health & Fitness,1.9,203848,4485957,217.99,0.0,Everyone 10+,Free,Developer G,2024-07-13,6.0 and up,2.5,Yes,Yes,0.0,5.94
+app95800,App_2832,Education,3.9,32203,9153300,442.92,15.5,Everyone,Paid,Developer C,2024-06-26,6.0 and up,6.3,Yes,Yes,141876150.0,2.46
+app74421,App_5730,Finance,3.6,264949,6833515,373.3,0.0,Everyone,Free,Developer H,2024-01-30,6.0 and up,1.0,No,No,1208231.01,5.02
+app11684,App_5142,Productivity,2.0,239245,8638214,247.57,0.0,Teen,Free,Developer G,2024-09-06,5.0 and up,6.3,No,Yes,130219.2,1.37
+app46429,App_1811,Productivity,3.5,332641,5914824,282.45,10.75,Mature 17+,Paid,Developer D,2024-12-15,4.1 and up,3.2,No,No,64048821.83,2.45
+app30208,App_6462,Social,1.6,213173,863157,84.57,12.55,Everyone,Paid,Developer G,2024-10-24,9.0 and up,1.0,No,Yes,11522815.98,6.96
+app75665,App_2702,Travel,4.4,460192,3422231,461.84,19.55,Teen,Paid,Developer A,2024-12-05,4.1 and up,6.3,Yes,No,67065598.84,2.76
+app25709,App_8903,Education,3.5,398448,6349998,163.7,0.0,Mature 17+,Free,Developer H,2024-05-07,9.0 and up,5.1,Yes,No,350472.2,7.86
+app79797,App_8411,Social,3.5,270422,8336410,265.62,0.0,Everyone 10+,Free,Developer B,2024-08-01,8.0 and up,5.1,Yes,No,0.0,2.19
+app49442,App_5648,Health & Fitness,1.4,371031,6873791,9.03,2.37,Everyone 10+,Paid,Developer F,2024-02-27,7.0 and up,7.4,Yes,No,19015435.93,3.77
+app49414,App_8022,Music,4.0,103666,1239403,64.94,10.46,Everyone,Paid,Developer F,2024-12-31,4.1 and up,1.0,Yes,No,13605091.44,4.68
+app91017,App_8334,Shopping,1.4,2491,1390656,5.81,0.0,Everyone,Free,Developer A,2024-01-19,8.0 and up,4.0,No,No,248980.07,9.99
+app82411,App_1130,Game,3.7,354960,3696481,248.92,18.69,Mature 17+,Paid,Developer H,2024-08-20,7.0 and up,2.5,No,No,69280161.53,1.69
+app48865,App_4168,Health & Fitness,4.6,383593,2196270,444.09,0.0,Everyone,Free,Developer I,2024-06-01,8.0 and up,7.4,No,No,223726.0,1.37
+app68413,App_5072,Shopping,2.2,218095,4485883,99.55,17.9,Everyone,Paid,Developer E,2024-03-28,9.0 and up,6.3,No,No,80297305.7,1.97
+app81511,App_9290,Finance,4.3,125437,5741909,398.06,0.0,Mature 17+,Free,Developer D,2024-06-28,5.0 and up,1.0,No,No,0.0,7.78
+app99785,App_5380,Productivity,2.7,394909,7013521,371.86,0.0,Everyone 10+,Free,Developer J,2024-02-28,8.0 and up,2.5,No,No,1589921.63,3.54
+app99008,App_4674,Social,2.4,169954,9148369,108.2,4.01,Everyone 10+,Paid,Developer B,2024-07-30,10.0 and up,6.3,No,Yes,36962905.0,8.68
+app83895,App_6593,Music,4.5,3940,549255,44.54,0.0,Everyone,Free,Developer B,2024-06-21,6.0 and up,4.0,Yes,Yes,343291.68,4.1
+app62172,App_9809,Music,2.9,20389,2769159,42.51,9.04,Everyone 10+,Paid,Developer H,2024-10-26,9.0 and up,6.3,No,No,25985574.17,5.3
+app77236,App_1309,Finance,5.0,110988,7679329,170.09,0.0,Teen,Free,Developer F,2024-01-12,7.0 and up,4.0,No,No,6445932.14,3.74
+app13271,App_8810,Travel,1.4,105508,2488121,277.87,0.0,Mature 17+,Free,Developer H,2024-08-04,6.0 and up,6.3,Yes,No,1285512.44,9.31
+app72229,App_4035,Social,1.7,427559,6001124,209.68,0.0,Teen,Free,Developer A,2024-12-15,4.1 and up,7.4,No,Yes,119432.22,4.76
+app72035,App_7318,Health & Fitness,4.2,11097,3134267,313.96,0.0,Teen,Free,Developer G,2024-11-23,8.0 and up,2.5,No,Yes,589781.28,6.2
+app61661,App_2763,Productivity,3.2,326474,6902985,422.39,8.22,Mature 17+,Paid,Developer H,2024-05-12,8.0 and up,6.3,Yes,Yes,57913800.49,5.08
+app70465,App_2850,Shopping,4.3,100812,3318916,460.5,0.0,Everyone 10+,Free,Developer J,2024-08-13,6.0 and up,7.4,No,Yes,16147.74,1.08
+app79787,App_3078,Education,5.0,232173,4026966,164.24,0.0,Everyone 10+,Free,Developer J,2024-06-03,8.0 and up,1.0,No,Yes,1220634.93,6.69
+app23312,App_1032,Music,3.8,161852,6981274,202.82,0.0,Mature 17+,Free,Developer E,2024-12-28,9.0 and up,2.5,Yes,No,1630930.25,5.36
+app25389,App_3360,Education,3.3,459925,7958345,121.54,0.0,Everyone 10+,Free,Developer B,2024-10-26,7.0 and up,3.2,Yes,No,2814298.52,1.15
+app50848,App_9025,Productivity,3.1,489362,3020735,272.31,0.0,Mature 17+,Free,Developer J,2024-11-18,10.0 and up,1.0,No,No,187580.44,3.72
+app62195,App_9135,Social,4.8,287395,6572667,85.73,6.83,Everyone,Paid,Developer F,2024-06-17,4.1 and up,4.0,Yes,Yes,49302087.05,5.6
+app94907,App_9545,Education,2.7,448955,3992573,185.23,0.0,Teen,Free,Developer D,2024-04-04,10.0 and up,5.1,Yes,No,0.0,5.36
+app16494,App_9285,Travel,1.8,115373,9340705,373.06,0.0,Mature 17+,Free,Developer E,2024-07-21,8.0 and up,2.5,Yes,No,1944141.74,7.77
+app16607,App_8664,Social,4.5,39298,4487786,445.99,0.0,Everyone,Free,Developer E,2024-10-26,8.0 and up,1.0,Yes,Yes,262718.84,7.47
+app50712,App_4793,Game,4.6,432640,520130,81.65,0.0,Mature 17+,Free,Developer C,2024-10-07,9.0 and up,6.3,Yes,Yes,443649.7,7.91
+app80818,App_2465,Finance,3.0,195958,9721047,401.19,1.29,Everyone,Paid,Developer E,2024-07-22,7.0 and up,4.0,No,No,14923230.23,1.37
+app65138,App_8640,Game,3.0,149468,1046232,301.36,0.0,Teen,Free,Developer C,2024-07-26,9.0 and up,3.2,Yes,No,68830.04,7.7
+app17070,App_6678,Music,4.6,19671,8900666,155.99,0.0,Everyone 10+,Free,Developer G,2024-11-15,8.0 and up,6.3,Yes,Yes,4912403.47,4.39
+app60138,App_8940,Finance,4.7,313851,5499318,256.66,14.74,Everyone,Paid,Developer I,2024-08-21,9.0 and up,6.3,Yes,No,82823736.06,6.83
+app40128,App_1251,Productivity,1.2,36673,8145385,97.08,14.5,Everyone 10+,Paid,Developer G,2024-08-29,4.1 and up,2.5,Yes,Yes,118747097.87,3.49
+app10017,App_5640,Health & Fitness,1.9,48693,2392974,166.75,0.0,Everyone 10+,Free,Developer H,2024-02-17,6.0 and up,3.2,Yes,No,1315517.52,7.48
+app24163,App_5943,Music,3.4,318653,5364665,386.34,0.0,Everyone,Free,Developer H,2024-03-07,7.0 and up,1.0,Yes,Yes,71857.97,6.3
+app72162,App_9066,Shopping,3.0,83067,6909930,39.4,0.0,Everyone 10+,Free,Developer C,2024-05-03,7.0 and up,5.1,No,No,4805453.42,1.78
+app62924,App_7194,Photography,3.5,183674,2711271,123.32,7.72,Everyone,Paid,Developer E,2024-01-24,6.0 and up,6.3,Yes,Yes,23456052.83,5.28
+app39090,App_9620,Finance,4.4,220368,5581370,346.46,0.0,Everyone,Free,Developer I,2024-09-08,4.1 and up,5.1,Yes,No,73389.71,9.93
+app98447,App_9572,Photography,4.9,468704,9886449,111.04,3.68,Everyone,Paid,Developer D,2024-03-27,4.1 and up,3.2,No,No,36838104.42,7.27
+app70649,App_1002,Finance,1.5,171005,8339467,302.95,17.25,Everyone 10+,Paid,Developer B,2024-01-10,10.0 and up,5.1,No,No,143962776.01,9.8
+app28714,App_8590,Education,2.0,487124,2228025,241.55,0.0,Everyone 10+,Free,Developer B,2024-12-05,4.1 and up,6.3,Yes,No,1337103.31,5.6
+app90870,App_6090,Shopping,3.5,480558,5508037,70.85,0.0,Everyone 10+,Free,Developer B,2024-06-09,4.1 and up,3.2,No,No,4295554.36,6.45
+app13629,App_6231,Health & Fitness,4.7,239508,6808242,143.81,17.81,Everyone 10+,Paid,Developer H,2024-06-27,10.0 and up,3.2,Yes,No,122472252.95,7.39
+app49728,App_6567,Travel,2.7,176642,3547094,261.87,0.0,Teen,Free,Developer J,2024-01-24,10.0 and up,3.2,No,Yes,2048444.39,2.84
+app17832,App_7918,Productivity,1.6,392341,4859644,498.55,0.0,Everyone,Free,Developer F,2024-07-10,5.0 and up,5.1,No,No,270824.26,5.95
+app83236,App_3573,Education,1.3,381956,702265,131.32,0.0,Everyone,Free,Developer C,2024-04-27,4.1 and up,3.2,No,No,111620.1,1.73
+app92572,App_5147,Travel,4.2,419575,11876,81.32,0.0,Mature 17+,Free,Developer G,2024-08-31,7.0 and up,1.0,Yes,No,8828.09,9.11
+app60277,App_2334,Photography,4.6,12019,9997362,254.92,0.0,Mature 17+,Free,Developer H,2024-11-18,10.0 and up,5.1,No,Yes,294280.27,1.55
+app10483,App_2222,Finance,4.1,302162,1031771,318.4,11.1,Teen,Paid,Developer E,2024-07-23,10.0 and up,3.2,Yes,No,11761355.04,5.77
+app96467,App_1293,Shopping,4.1,191575,95891,495.82,0.0,Everyone 10+,Free,Developer C,2024-01-28,6.0 and up,7.4,No,Yes,3734.45,8.88
+app61052,App_2237,Social,3.3,163407,5020521,262.81,0.0,Everyone 10+,Free,Developer A,2024-09-20,8.0 and up,3.2,No,No,149481.68,7.96
+app81139,App_1350,Photography,2.2,318563,1726372,233.8,13.45,Everyone,Paid,Developer I,2024-07-04,10.0 and up,5.1,Yes,No,24202814.9,3.4
+app61978,App_1417,Shopping,4.1,147417,3107123,444.78,11.39,Everyone,Paid,Developer G,2024-03-25,5.0 and up,7.4,No,No,35470269.39,8.02
+app83545,App_8864,Health & Fitness,2.3,479223,7265878,36.7,2.08,Teen,Paid,Developer C,2024-03-01,6.0 and up,5.1,No,Yes,17817991.03,6.78
+app23972,App_9030,Health & Fitness,4.0,329309,2153738,321.51,10.87,Everyone,Paid,Developer D,2024-09-21,4.1 and up,5.1,No,Yes,24193339.99,3.95
+app50528,App_2734,Shopping,4.6,237788,8530730,384.91,0.0,Teen,Free,Developer D,2024-08-09,7.0 and up,4.0,No,Yes,4155139.34,4.08
+app81352,App_5633,Health & Fitness,5.0,450711,2706725,416.2,12.93,Everyone,Paid,Developer C,2024-12-02,10.0 and up,3.2,No,No,36014752.61,7.7
+app20210,App_9486,Game,1.2,134587,6077769,482.88,0.0,Mature 17+,Free,Developer I,2024-11-18,4.1 and up,5.1,No,No,388798.14,1.55
+app82118,App_8879,Music,3.6,223072,7891712,457.84,0.0,Everyone 10+,Free,Developer J,2024-04-22,5.0 and up,1.0,Yes,Yes,0.0,7.98
+app67535,App_3231,Travel,3.0,318452,9395783,363.99,5.83,Everyone,Paid,Developer E,2024-12-19,8.0 and up,7.4,No,Yes,59267649.79,1.33
+app19982,App_4722,Shopping,2.6,115776,8634958,397.85,2.36,Teen,Paid,Developer E,2024-08-11,8.0 and up,1.0,Yes,No,24970346.67,7.89
+app84551,App_9056,Finance,4.2,36052,6852101,202.56,5.83,Everyone 10+,Paid,Developer D,2024-10-16,8.0 and up,3.2,No,No,40277716.14,1.17
+app61095,App_3545,Social,2.1,459052,7633790,124.12,1.51,Everyone,Paid,Developer G,2024-07-02,10.0 and up,3.2,No,No,12730601.89,4.1
+app55005,App_3161,Shopping,3.5,198469,106699,378.84,0.0,Everyone,Free,Developer D,2024-10-24,9.0 and up,7.4,No,Yes,19449.37,8.52
+app94285,App_2373,Music,2.6,102390,9835953,23.56,2.69,Everyone,Paid,Developer B,2024-05-03,6.0 and up,6.3,No,No,30158716.44,5.19
+app74973,App_6340,Productivity,4.7,412795,8017812,474.08,1.71,Mature 17+,Paid,Developer D,2024-07-10,7.0 and up,1.0,No,Yes,13895350.08,9.01
+app60487,App_7964,Health & Fitness,4.0,444477,6473942,180.03,0.0,Teen,Free,Developer I,2024-09-02,9.0 and up,2.5,No,Yes,1929270.14,3.2
+app31882,App_9434,Travel,4.8,239490,6735785,21.44,0.0,Mature 17+,Free,Developer H,2024-10-09,5.0 and up,2.5,Yes,No,3937737.81,1.88
+app70466,App_4736,Productivity,3.7,198841,528760,140.53,16.7,Teen,Paid,Developer E,2024-08-03,7.0 and up,1.0,No,Yes,8867182.82,1.98
+app92380,App_9008,Music,3.3,152907,2270964,143.78,0.0,Everyone 10+,Free,Developer B,2024-12-06,7.0 and up,6.3,No,Yes,1603949.02,8.4
+app46759,App_9680,Productivity,1.0,259716,2475370,99.9,10.08,Mature 17+,Paid,Developer I,2024-11-10,5.0 and up,4.0,Yes,No,26452684.04,2.17
+app87569,App_1994,Social,2.4,280363,2016379,467.82,0.0,Mature 17+,Free,Developer E,2024-03-12,4.1 and up,3.2,No,No,96185.93,1.71
+app25609,App_2196,Finance,4.8,108805,4687931,379.62,0.0,Mature 17+,Free,Developer E,2024-08-25,7.0 and up,3.2,No,Yes,0.0,4.69
+app89884,App_6245,Game,4.2,171761,496958,155.75,7.32,Mature 17+,Paid,Developer E,2024-12-14,10.0 and up,7.4,Yes,No,3700661.35,3.41
+app81117,App_6387,Social,1.2,200941,9337782,421.85,13.36,Everyone 10+,Paid,Developer B,2024-07-05,8.0 and up,3.2,No,No,126944002.72,1.28
+app35145,App_7982,Social,2.2,434628,5420477,185.53,0.0,Everyone,Free,Developer J,2024-07-18,7.0 and up,2.5,No,Yes,155020.35,2.2
+app77077,App_4239,Productivity,2.6,290443,5179777,154.04,3.62,Teen,Paid,Developer E,2024-06-12,4.1 and up,1.0,Yes,Yes,21044842.83,7.35
+app43897,App_8861,Music,4.1,335190,6503132,115.92,0.0,Teen,Free,Developer C,2024-11-17,8.0 and up,7.4,No,No,2662919.4,1.28
+app19653,App_2929,Social,3.1,62065,3072466,235.19,2.75,Everyone,Paid,Developer F,2024-06-02,8.0 and up,6.3,No,No,9018835.69,7.37
+app42793,App_4122,Music,4.4,183719,7302989,17.59,15.9,Mature 17+,Paid,Developer H,2024-03-01,7.0 and up,3.2,Yes,No,116117525.1,6.6
+app72882,App_9195,Health & Fitness,4.2,376014,1348101,122.23,8.78,Everyone,Paid,Developer D,2024-05-23,6.0 and up,6.3,No,Yes,12136457.2,2.35
+app68380,App_5017,Travel,1.4,499537,9703891,132.58,13.05,Everyone 10+,Paid,Developer H,2024-09-22,4.1 and up,7.4,No,No,131358412.61,2.33
+app17730,App_6985,Health & Fitness,3.7,346741,4978388,225.83,7.36,Everyone 10+,Paid,Developer F,2024-03-17,6.0 and up,2.5,No,Yes,36750000.38,8.16
+app78071,App_1552,Education,1.9,33233,7400617,265.74,0.0,Teen,Free,Developer H,2024-02-21,7.0 and up,2.5,No,Yes,6531205.24,5.61
+app64863,App_5466,Music,3.7,467167,2511327,12.46,1.42,Mature 17+,Paid,Developer D,2024-09-06,7.0 and up,7.4,Yes,No,3617608.23,3.1
+app59697,App_2549,Health & Fitness,4.9,14550,3605625,162.88,0.0,Everyone 10+,Free,Developer G,2024-07-15,10.0 and up,1.0,No,No,702526.41,3.53
+app39576,App_5757,Music,4.8,341267,7262790,189.65,0.0,Everyone,Free,Developer A,2024-09-10,9.0 and up,2.5,Yes,Yes,2160057.99,1.23
+app22093,App_3065,Shopping,2.4,469264,9353959,184.51,0.0,Everyone,Free,Developer E,2024-08-12,6.0 and up,5.1,Yes,Yes,5041692.86,5.65
+app63008,App_1832,Finance,4.2,412389,2437113,189.16,10.78,Everyone,Paid,Developer H,2024-02-24,4.1 and up,4.0,No,Yes,26832315.12,3.68
+app91899,App_6698,Social,1.6,218737,5825066,185.11,0.0,Teen,Free,Developer C,2024-10-26,10.0 and up,6.3,Yes,Yes,866908.92,6.2
+app13301,App_3627,Travel,1.9,314043,8770806,489.64,3.15,Teen,Paid,Developer C,2024-07-12,5.0 and up,5.1,No,Yes,28182809.66,7.48
+app55571,App_3670,Education,3.9,30971,3106035,256.62,12.97,Everyone 10+,Paid,Developer G,2024-07-01,6.0 and up,6.3,Yes,No,42135601.16,9.36
+app47206,App_7716,Music,2.4,164482,1180402,22.5,19.07,Everyone 10+,Paid,Developer B,2024-01-06,7.0 and up,4.0,No,No,22550481.45,2.36
+app50724,App_9128,Music,4.0,95132,6699980,231.44,0.0,Mature 17+,Free,Developer C,2024-08-21,10.0 and up,7.4,No,No,315006.36,2.32
+app52377,App_1994,Finance,3.7,453364,5475196,248.04,0.0,Everyone 10+,Free,Developer J,2024-12-01,6.0 and up,4.0,No,Yes,441026.93,1.3
+app54658,App_5131,Social,4.8,206826,4403555,289.29,0.89,Mature 17+,Paid,Developer H,2024-10-16,6.0 and up,5.1,Yes,No,7156925.87,5.68
+app34610,App_4580,Productivity,3.7,490087,468655,142.33,15.99,Everyone,Paid,Developer E,2024-09-28,9.0 and up,4.0,No,No,7608503.87,3.8
+app73242,App_8319,Game,1.7,410059,4532033,149.29,3.61,Everyone 10+,Paid,Developer E,2024-03-08,6.0 and up,2.5,No,No,16497085.52,8.53
+app93884,App_3413,Game,2.0,325614,388235,319.1,0.0,Teen,Free,Developer E,2024-01-15,5.0 and up,2.5,No,No,16116.96,5.21
+app90918,App_6765,Social,1.6,415291,4574962,274.93,0.0,Teen,Free,Developer C,2024-12-17,7.0 and up,6.3,No,No,3207673.91,2.67
+app96064,App_5399,Finance,3.4,404069,6756501,253.87,0.0,Everyone,Free,Developer B,2024-02-13,8.0 and up,6.3,Yes,No,637367.26,5.06
+app56923,App_5730,Shopping,5.0,41346,3204866,351.29,0.0,Everyone,Free,Developer J,2024-06-28,10.0 and up,2.5,Yes,Yes,1261571.59,4.15
+app87962,App_6940,Social,4.1,309701,8314924,60.83,0.0,Everyone,Free,Developer C,2024-05-21,7.0 and up,5.1,No,Yes,0.0,4.21
+app34344,App_9130,Productivity,2.0,482683,2797523,213.66,15.04,Everyone 10+,Paid,Developer A,2024-03-06,4.1 and up,4.0,Yes,No,42074745.92,4.47
+app48131,App_1430,Social,4.5,77220,8776241,243.75,6.39,Everyone,Paid,Developer E,2024-11-29,9.0 and up,6.3,Yes,No,58882840.37,2.51
+app32408,App_7437,Health & Fitness,4.5,463093,6698915,372.2,0.0,Mature 17+,Free,Developer D,2024-01-01,5.0 and up,4.0,Yes,Yes,112781.7,7.59
+app83593,App_2719,Travel,2.3,415992,3359697,470.31,0.0,Everyone,Free,Developer F,2024-12-18,10.0 and up,1.0,No,No,0.0,5.38
+app86941,App_9497,Shopping,3.6,260044,645545,271.38,0.0,Mature 17+,Free,Developer H,2024-10-01,4.1 and up,3.2,Yes,No,273200.61,7.49
+app73400,App_7322,Game,2.3,495203,8914357,358.28,10.22,Everyone 10+,Paid,Developer C,2024-12-09,5.0 and up,3.2,Yes,Yes,91212324.74,5.43
+app51332,App_5282,Shopping,1.5,317801,6100253,415.46,18.49,Teen,Paid,Developer D,2024-04-18,9.0 and up,1.0,Yes,No,115853718.35,2.5
+app67471,App_1914,Shopping,2.9,412284,2372043,152.13,6.36,Everyone,Paid,Developer B,2024-11-21,4.1 and up,3.2,Yes,No,16239477.96,4.19
+app90418,App_1524,Shopping,4.2,355917,4969919,282.25,0.0,Teen,Free,Developer E,2024-07-26,7.0 and up,5.1,Yes,Yes,938020.68,9.77
+app83972,App_9861,Travel,4.9,109158,9003114,380.2,19.64,Teen,Paid,Developer A,2024-03-05,6.0 and up,2.5,No,Yes,178234874.27,2.66
+app42037,App_2130,Productivity,3.2,32511,1622229,289.85,0.0,Everyone,Free,Developer H,2024-09-11,9.0 and up,2.5,Yes,Yes,220887.97,2.61
+app99809,App_3187,Finance,2.5,24614,3793373,73.28,0.0,Everyone,Free,Developer A,2024-11-30,7.0 and up,1.0,Yes,Yes,945525.97,5.03
+app69466,App_4476,Photography,3.0,472560,390132,370.41,0.0,Everyone,Free,Developer A,2024-02-29,7.0 and up,4.0,Yes,No,29971.29,8.66
+app38282,App_9927,Shopping,4.3,409795,2099123,254.99,16.15,Teen,Paid,Developer F,2024-11-27,8.0 and up,2.5,Yes,No,34081008.18,3.67
+app32903,App_1400,Education,1.2,275520,6205259,130.82,8.13,Everyone,Paid,Developer D,2024-11-29,7.0 and up,2.5,No,No,53171245.37,1.11
+app13310,App_5022,Social,3.4,360788,6101670,216.47,9.12,Everyone,Paid,Developer E,2024-03-04,5.0 and up,1.0,No,No,55695609.58,1.73
+app43621,App_3719,Health & Fitness,1.5,340462,4352889,414.13,18.69,Everyone 10+,Paid,Developer B,2024-05-02,10.0 and up,5.1,No,No,82102833.34,5.4
+app96292,App_3033,Social,2.6,245727,6668433,71.62,15.92,Everyone,Paid,Developer J,2024-02-14,6.0 and up,4.0,No,Yes,106557990.58,3.66
+app65687,App_9953,Education,3.7,359879,9071328,192.11,0.0,Teen,Free,Developer G,2024-05-17,7.0 and up,1.0,Yes,No,1438766.91,9.93
+app32305,App_8385,Social,4.2,141342,3545128,121.81,0.0,Teen,Free,Developer G,2024-07-19,8.0 and up,6.3,Yes,No,1303405.26,9.72
+app30958,App_1425,Game,1.5,472982,3717134,243.0,0.0,Teen,Free,Developer J,2024-02-22,9.0 and up,7.4,No,No,1022585.76,6.0
+app34984,App_1392,Shopping,2.4,356958,7809775,63.74,0.0,Everyone,Free,Developer B,2024-03-16,10.0 and up,7.4,Yes,Yes,5685028.35,3.24
+app69085,App_6238,Finance,4.6,229786,59645,10.16,7.68,Everyone,Paid,Developer I,2024-10-21,6.0 and up,3.2,No,Yes,463487.34,1.66
+app53723,App_9079,Game,4.2,435330,4988626,341.33,17.99,Mature 17+,Paid,Developer H,2024-09-29,5.0 and up,1.0,Yes,Yes,91393400.79,2.72
+app74245,App_3774,Finance,3.0,80435,3400834,56.1,0.0,Teen,Free,Developer F,2024-07-13,5.0 and up,6.3,Yes,Yes,2448192.3,7.93
+app20728,App_6226,Travel,3.5,453663,8980199,62.45,0.42,Teen,Paid,Developer E,2024-01-18,4.1 and up,1.0,Yes,Yes,7638781.71,4.24
+app61131,App_8038,Finance,2.9,134057,9879844,487.02,12.93,Teen,Paid,Developer E,2024-05-20,9.0 and up,3.2,Yes,Yes,128395318.36,3.85
+app86391,App_8617,Travel,4.4,450197,209436,293.57,2.87,Teen,Paid,Developer I,2024-10-25,5.0 and up,5.1,No,Yes,695078.87,3.06
+app47898,App_4744,Health & Fitness,4.0,322240,6275868,315.34,3.49,Everyone 10+,Paid,Developer H,2024-12-13,6.0 and up,7.4,No,No,23747352.35,3.96
+app15092,App_8589,Music,1.4,214370,7557033,397.41,0.0,Everyone,Free,Developer H,2024-11-22,4.1 and up,5.1,No,Yes,2769519.27,7.18
+app39318,App_2591,Productivity,2.5,168186,435781,451.26,16.61,Everyone 10+,Paid,Developer I,2024-04-09,4.1 and up,4.0,Yes,No,7238322.41,5.24
+app67370,App_9989,Travel,2.6,2391,2321878,107.12,3.49,Teen,Paid,Developer A,2024-11-11,5.0 and up,3.2,No,Yes,8447695.81,5.55
+app61962,App_6104,Education,1.8,58031,8982768,371.03,1.17,Mature 17+,Paid,Developer G,2024-11-20,5.0 and up,2.5,No,No,10862706.26,9.71
+app33280,App_4638,Shopping,3.3,257367,7482802,166.02,16.19,Teen,Paid,Developer F,2024-06-25,5.0 and up,4.0,No,No,124329182.96,1.87
+app48920,App_9960,Productivity,3.4,491600,9885891,373.03,0.53,Everyone 10+,Paid,Developer D,2024-07-07,5.0 and up,1.0,No,No,12473318.42,3.27
+app58064,App_3713,Travel,5.0,395469,7807836,379.39,0.0,Mature 17+,Free,Developer A,2024-06-01,4.1 and up,2.5,No,Yes,2918386.2,6.68
+app52646,App_6086,Social,4.4,234003,9434701,21.02,0.0,Everyone,Free,Developer E,2024-09-14,8.0 and up,7.4,Yes,No,0.0,7.44
+app13669,App_7176,Music,4.0,449261,4455425,250.06,1.47,Everyone,Paid,Developer B,2024-10-07,9.0 and up,6.3,Yes,No,7343852.9,6.46
+app71000,App_6808,Finance,3.6,356325,1723213,138.17,0.0,Mature 17+,Free,Developer A,2024-06-23,10.0 and up,2.5,Yes,No,87017.12,2.92
+app15063,App_6427,Finance,1.8,88878,8006683,356.23,17.29,Mature 17+,Paid,Developer E,2024-08-14,6.0 and up,7.4,No,Yes,138447732.54,4.26
+app49565,App_8203,Productivity,3.4,68549,8827005,305.22,0.0,Teen,Free,Developer J,2024-02-26,7.0 and up,5.1,Yes,No,842583.4,2.35
+app75357,App_9684,Photography,2.2,153451,3174808,385.64,15.75,Teen,Paid,Developer F,2024-05-02,7.0 and up,4.0,Yes,No,50278655.92,6.14
+app40347,App_8399,Shopping,4.2,138602,65796,350.83,0.0,Mature 17+,Free,Developer I,2024-11-27,5.0 and up,1.0,No,Yes,14506.58,9.78
+app66927,App_7697,Finance,3.5,220896,6286337,361.61,0.0,Teen,Free,Developer B,2024-07-25,10.0 and up,5.1,No,Yes,4108121.09,2.87
+app49816,App_4833,Music,4.9,312199,7685081,437.9,17.44,Everyone 10+,Paid,Developer C,2024-03-30,4.1 and up,3.2,Yes,Yes,134578315.88,5.2
+app11294,App_2148,Social,1.1,414766,2466554,45.62,13.21,Everyone 10+,Paid,Developer G,2024-08-11,7.0 and up,2.5,No,Yes,33022010.43,5.34
+app49905,App_6601,Education,1.9,382371,7227142,102.71,15.49,Mature 17+,Paid,Developer D,2024-04-14,8.0 and up,1.0,No,No,114251040.61,2.15
+app11628,App_2866,Photography,4.6,272628,9757353,237.6,4.77,Everyone,Paid,Developer H,2024-05-18,6.0 and up,7.4,Yes,Yes,48240784.74,9.81
+app10729,App_8948,Game,3.5,290367,5973730,346.62,0.0,Teen,Free,Developer B,2024-11-25,10.0 and up,2.5,No,No,0.0,6.86
+app63069,App_3627,Education,1.9,229214,7662858,224.18,0.0,Mature 17+,Free,Developer I,2024-06-07,4.1 and up,2.5,Yes,Yes,4089467.91,7.53
+app39646,App_7885,Game,1.7,257757,9827095,160.85,2.59,Teen,Paid,Developer I,2024-04-03,6.0 and up,6.3,No,Yes,25641334.29,8.29
+app95974,App_7763,Finance,2.4,192536,6999560,194.15,0.0,Everyone 10+,Free,Developer J,2024-10-06,5.0 and up,6.3,No,Yes,3767392.89,1.07
+app25112,App_6707,Shopping,3.8,280888,8371241,459.21,0.0,Everyone,Free,Developer C,2024-06-11,9.0 and up,2.5,No,Yes,547930.26,3.54
+app81645,App_6647,Game,1.7,235446,6959779,319.39,0.0,Everyone 10+,Free,Developer A,2024-10-01,7.0 and up,4.0,Yes,Yes,124646.0,9.17
+app69457,App_8218,Shopping,2.8,304979,7230478,16.94,0.0,Everyone,Free,Developer J,2024-05-28,10.0 and up,6.3,No,No,1213918.53,6.43
+app16298,App_5045,Game,3.5,266347,541548,329.66,0.0,Everyone,Free,Developer C,2024-05-18,4.1 and up,6.3,No,No,91896.23,7.2
+app95721,App_9565,Photography,3.7,52201,1971943,52.92,0.0,Mature 17+,Free,Developer G,2024-11-24,6.0 and up,7.4,Yes,Yes,1407953.41,6.23
+app66733,App_4704,Music,3.6,407244,8078953,218.82,2.54,Teen,Paid,Developer A,2024-02-26,9.0 and up,5.1,No,Yes,21554001.14,3.86
+app91692,App_3578,Social,3.9,300077,1411503,302.73,0.0,Everyone,Free,Developer B,2024-07-21,7.0 and up,7.4,No,No,14672.89,2.38
+app26691,App_5311,Health & Fitness,1.2,352682,3263703,27.78,16.36,Everyone 10+,Paid,Developer E,2024-10-28,5.0 and up,1.0,Yes,Yes,54790265.24,7.3
+app32829,App_7565,Game,1.6,196102,2060950,353.03,19.66,Mature 17+,Paid,Developer C,2024-01-30,4.1 and up,3.2,No,No,40518277.0,9.85
+app67163,App_8208,Education,2.3,18405,558230,319.09,0.0,Teen,Free,Developer D,2024-12-20,4.1 and up,2.5,Yes,No,5042.15,5.77
+app80549,App_3583,Shopping,2.1,252168,4621317,416.2,10.82,Everyone 10+,Paid,Developer G,2024-05-24,7.0 and up,3.2,No,Yes,51931144.75,2.23
+app89797,App_5346,Game,1.4,43742,3692560,396.64,0.02,Everyone,Paid,Developer I,2024-03-31,7.0 and up,5.1,Yes,Yes,2271388.34,1.93
+app40339,App_1690,Shopping,3.8,246532,1511614,267.03,13.12,Everyone,Paid,Developer H,2024-03-28,9.0 and up,4.0,Yes,No,20711818.75,5.09
+app77028,App_5127,Productivity,4.6,248559,534102,311.72,0.0,Everyone 10+,Free,Developer A,2024-04-24,4.1 and up,5.1,No,Yes,144844.78,5.15
+app23083,App_7146,Travel,1.2,223088,8729506,341.67,14.58,Teen,Paid,Developer B,2024-10-12,9.0 and up,3.2,Yes,Yes,134180653.58,5.72
+app79793,App_8323,Education,5.0,180217,3754362,85.64,0.0,Mature 17+,Free,Developer E,2024-08-09,10.0 and up,1.0,Yes,Yes,2312056.82,8.9
+app93971,App_3629,Music,2.0,476534,8177458,249.42,0.0,Everyone 10+,Free,Developer A,2024-02-20,10.0 and up,3.2,No,No,2676537.95,7.92
+app63525,App_4926,Travel,2.8,438583,4124959,277.8,11.56,Everyone,Paid,Developer H,2024-07-10,4.1 and up,7.4,Yes,Yes,48402549.6,7.82
+app14764,App_2832,Travel,2.9,86318,202964,114.28,0.0,Everyone,Free,Developer H,2024-04-04,9.0 and up,6.3,No,No,140535.19,2.26
+app98674,App_3747,Education,4.9,351512,6772741,20.08,0.24,Everyone,Paid,Developer F,2024-02-19,9.0 and up,1.0,No,No,2017168.82,3.97
+app53043,App_8251,Social,2.9,196523,8292931,169.95,14.45,Everyone 10+,Paid,Developer J,2024-04-02,5.0 and up,6.3,No,Yes,125046719.66,1.43
+app59474,App_3508,Social,4.7,490971,9880417,225.61,0.0,Teen,Free,Developer J,2024-04-20,4.1 and up,1.0,Yes,Yes,211050.52,6.72
+app99842,App_4754,Social,3.5,164178,6757658,123.91,0.0,Teen,Free,Developer I,2024-05-11,10.0 and up,2.5,Yes,Yes,1279146.62,8.8
+app95566,App_2642,Finance,4.5,100903,7470290,116.62,0.0,Teen,Free,Developer A,2024-12-01,9.0 and up,5.1,Yes,No,4435259.16,9.5
+app54276,App_2710,Health & Fitness,1.3,64756,2232329,297.91,17.9,Mature 17+,Paid,Developer G,2024-08-05,6.0 and up,2.5,Yes,No,39958689.1,2.81
+app18463,App_9940,Game,4.7,140461,7688414,317.5,16.13,Everyone 10+,Paid,Developer B,2024-12-14,6.0 and up,2.5,No,No,129149625.06,6.22
+app17395,App_6419,Productivity,4.2,187235,5836431,468.27,0.0,Mature 17+,Free,Developer J,2024-12-22,7.0 and up,5.1,Yes,No,250868.07,6.67
+app80723,App_9156,Productivity,2.8,100529,1147892,178.89,0.0,Everyone,Free,Developer G,2024-03-28,10.0 and up,3.2,No,No,191423.95,4.15
+app73937,App_3583,Education,2.5,30795,8707909,70.76,0.0,Everyone,Free,Developer B,2024-05-10,8.0 and up,6.3,Yes,Yes,1528340.02,4.09
+app28752,App_2507,Music,4.6,9751,3506817,139.25,0.0,Teen,Free,Developer D,2024-03-10,7.0 and up,7.4,No,Yes,1763431.44,6.85
+app23821,App_7064,Social,3.9,50201,3826472,89.98,15.75,Teen,Paid,Developer B,2024-02-18,9.0 and up,6.3,Yes,Yes,60430083.65,8.56
+app73785,App_8044,Education,1.1,170189,3528965,34.96,3.82,Everyone,Paid,Developer J,2024-09-23,5.0 and up,6.3,No,No,13970126.46,6.11
+app14906,App_8608,Shopping,2.0,83758,5258064,30.64,3.41,Everyone,Paid,Developer C,2024-06-22,7.0 and up,2.5,Yes,Yes,19822208.64,1.69
+app20593,App_8613,Finance,4.5,480628,5369422,286.59,0.0,Teen,Free,Developer G,2024-10-11,8.0 and up,4.0,No,Yes,828796.69,2.52
+app67493,App_3992,Health & Fitness,2.6,336492,3713890,428.12,0.0,Teen,Free,Developer E,2024-01-14,4.1 and up,2.5,Yes,No,0.0,4.91
+app77017,App_9666,Finance,4.2,479328,5858986,482.76,0.0,Everyone 10+,Free,Developer I,2024-02-21,5.0 and up,3.2,Yes,No,18216.44,1.07
+app79126,App_8251,Game,2.2,120963,3151278,108.93,0.0,Everyone,Free,Developer H,2024-06-23,6.0 and up,3.2,No,No,0.0,1.16
+app58602,App_4958,Productivity,4.4,490943,766903,11.12,15.18,Mature 17+,Paid,Developer F,2024-01-25,5.0 and up,1.0,Yes,No,11902715.86,3.19
+app52476,App_5987,Music,2.0,11398,8385876,20.74,10.49,Teen,Paid,Developer J,2024-07-03,8.0 and up,6.3,No,Yes,88097998.63,6.79
+app21953,App_6590,Photography,2.5,417481,6371682,133.74,0.0,Everyone 10+,Free,Developer F,2024-01-10,10.0 and up,1.0,Yes,No,3006206.67,9.91
+app36931,App_6023,Travel,1.9,50732,5231962,283.66,3.3,Teen,Paid,Developer F,2024-10-27,7.0 and up,7.4,No,Yes,18000570.75,5.11
+app89146,App_7916,Game,2.8,159023,2572185,454.94,1.97,Mature 17+,Paid,Developer E,2024-08-14,8.0 and up,4.0,Yes,Yes,6149086.08,4.08
+app72624,App_1500,Education,1.9,302178,9576540,96.08,17.69,Everyone 10+,Paid,Developer B,2024-06-02,9.0 and up,5.1,Yes,Yes,170869691.23,4.88
+app12083,App_1132,Photography,3.3,98147,1532562,189.02,0.0,Teen,Free,Developer A,2024-11-20,8.0 and up,5.1,Yes,No,214045.05,5.78
+app40937,App_2731,Productivity,1.6,284742,3470268,355.09,0.0,Everyone,Free,Developer A,2024-05-08,5.0 and up,4.0,No,No,175168.37,7.63
+app49600,App_8560,Finance,1.6,67023,254011,304.0,0.0,Everyone,Free,Developer B,2024-08-26,7.0 and up,7.4,Yes,No,2456.03,3.07
+app48228,App_6134,Shopping,1.7,182591,1204032,255.94,0.0,Everyone 10+,Free,Developer A,2024-05-31,9.0 and up,6.3,No,Yes,234994.81,1.29
+app99067,App_1255,Health & Fitness,1.0,360369,2408176,253.58,19.34,Mature 17+,Paid,Developer G,2024-05-08,7.0 and up,6.3,No,No,46596508.41,4.14
+app49353,App_3405,Game,4.1,411169,906126,59.92,0.0,Teen,Free,Developer H,2024-07-21,4.1 and up,5.1,No,No,35859.59,2.44
+app51246,App_9529,Photography,3.5,424543,522222,149.71,0.0,Teen,Free,Developer F,2024-03-16,6.0 and up,1.0,Yes,Yes,461288.35,7.55
+app98319,App_7203,Education,3.3,432843,9409272,88.18,15.49,Everyone 10+,Paid,Developer F,2024-12-16,4.1 and up,7.4,Yes,Yes,146774433.32,3.01
+app44089,App_4295,Travel,4.0,338273,2105635,468.59,0.0,Everyone 10+,Free,Developer E,2024-11-24,7.0 and up,1.0,No,No,365132.16,6.5
+app64305,App_7161,Education,4.9,225121,8082335,229.13,0.0,Everyone,Free,Developer A,2024-03-12,8.0 and up,5.1,No,No,4636328.8,3.85
+app16111,App_2655,Health & Fitness,2.1,149100,4960573,315.94,12.77,Teen,Paid,Developer I,2024-06-20,9.0 and up,1.0,Yes,No,64579134.26,9.87
+app63083,App_8186,Travel,1.0,74697,571970,176.42,0.0,Everyone 10+,Free,Developer H,2024-08-27,10.0 and up,1.0,No,Yes,380951.76,8.57
+app86438,App_5206,Game,3.8,172279,539723,335.45,0.0,Teen,Free,Developer F,2024-12-14,7.0 and up,4.0,No,Yes,71738.79,2.76
+app22094,App_8481,Health & Fitness,1.0,251402,7761103,333.04,17.75,Everyone 10+,Paid,Developer E,2024-11-20,6.0 and up,7.4,No,Yes,139587849.18,8.06
+app87313,App_8521,Social,4.0,433217,5221492,165.62,1.2,Mature 17+,Paid,Developer E,2024-12-20,5.0 and up,5.1,No,Yes,6358100.19,6.35
+app37177,App_2807,Photography,3.3,325133,473186,239.45,6.5,Everyone,Paid,Developer J,2024-10-11,10.0 and up,1.0,Yes,No,3207434.41,3.8
+app21673,App_4375,Education,4.4,301369,4356455,100.57,0.0,Mature 17+,Free,Developer H,2024-12-14,7.0 and up,5.1,No,Yes,3181018.42,9.15
+app33186,App_5138,Finance,4.2,319748,8479537,288.3,17.66,Everyone 10+,Paid,Developer H,2024-04-03,10.0 and up,5.1,Yes,Yes,155515322.32,7.61
+app21070,App_2301,Social,3.3,243600,1764378,368.81,3.35,Mature 17+,Paid,Developer A,2024-12-31,6.0 and up,1.0,Yes,Yes,6599367.92,2.51
+app12619,App_2465,Social,3.7,473567,4592165,480.56,0.0,Everyone 10+,Free,Developer J,2024-02-15,5.0 and up,3.2,Yes,No,756541.08,7.92
+app12647,App_2345,Photography,1.2,225402,4202118,49.64,0.0,Mature 17+,Free,Developer J,2024-10-28,6.0 and up,6.3,No,No,634206.81,3.01
+app71300,App_4095,Productivity,2.2,268611,229925,352.43,0.0,Teen,Free,Developer A,2024-05-06,8.0 and up,6.3,Yes,No,20918.19,9.53
+app80574,App_8334,Health & Fitness,3.1,329592,6042105,494.36,7.13,Mature 17+,Paid,Developer J,2024-09-09,6.0 and up,3.2,No,Yes,43447963.1,2.81
+app91384,App_9164,Health & Fitness,1.2,379868,1293413,200.63,0.0,Teen,Free,Developer G,2024-01-28,10.0 and up,5.1,No,Yes,43196.16,5.83
+app39578,App_4999,Finance,4.5,498069,1462676,80.09,0.0,Mature 17+,Free,Developer J,2024-01-11,8.0 and up,2.5,No,No,737654.02,6.39
+app42520,App_4327,Health & Fitness,2.5,78132,7209586,63.71,0.0,Mature 17+,Free,Developer B,2024-03-05,8.0 and up,5.1,Yes,No,6270388.88,3.94
+app98424,App_5764,Education,2.1,80874,3145893,339.06,0.0,Everyone 10+,Free,Developer H,2024-05-05,8.0 and up,5.1,Yes,No,520322.68,9.52
+app52419,App_7741,Finance,2.3,242868,4627865,151.74,0.0,Everyone,Free,Developer B,2024-11-10,4.1 and up,3.2,No,No,128948.85,2.1
+app21602,App_9453,Music,3.2,280003,6600250,462.42,13.53,Mature 17+,Paid,Developer F,2024-12-02,8.0 and up,6.3,No,Yes,89301382.5,3.46
+app97552,App_7265,Game,1.5,434686,6653322,102.86,0.0,Everyone 10+,Free,Developer E,2024-12-17,8.0 and up,6.3,No,Yes,3676051.48,9.35
+app26054,App_8864,Finance,1.4,325062,2587235,54.73,0.0,Everyone,Free,Developer G,2024-11-17,5.0 and up,4.0,Yes,Yes,2035787.74,3.95
+app75393,App_1493,Photography,4.3,215288,5058259,79.41,0.0,Everyone 10+,Free,Developer G,2024-09-08,10.0 and up,5.1,No,No,717206.07,9.02
+app69938,App_3503,Education,4.6,221299,7538899,316.08,13.79,Everyone 10+,Paid,Developer I,2024-02-04,10.0 and up,6.3,No,No,104465642.13,8.23
+app10844,App_2293,Finance,2.1,201403,6784166,315.06,0.0,Everyone,Free,Developer H,2024-01-05,7.0 and up,7.4,No,Yes,532916.79,8.33
+app10606,App_9303,Game,2.8,49881,8896780,274.32,0.0,Everyone,Free,Developer I,2024-04-20,4.1 and up,2.5,Yes,Yes,1399459.57,2.67
+app86676,App_1171,Finance,3.5,486467,3482982,439.54,3.93,Teen,Paid,Developer J,2024-10-11,5.0 and up,5.1,No,Yes,14918086.66,3.69
+app13451,App_7681,Health & Fitness,1.4,349255,7974435,331.48,10.5,Everyone,Paid,Developer G,2024-07-11,6.0 and up,5.1,No,No,86090424.33,4.26
+app87063,App_4089,Music,1.9,68336,6778416,26.07,10.48,Teen,Paid,Developer F,2024-03-08,8.0 and up,2.5,No,Yes,74925904.14,6.29
+app65570,App_6874,Music,4.1,322002,6028856,371.55,15.27,Everyone,Paid,Developer E,2024-11-12,8.0 and up,2.5,No,Yes,92101953.4,7.58
+app72085,App_5051,Education,3.4,18821,1162670,254.58,10.27,Everyone 10+,Paid,Developer F,2024-12-14,7.0 and up,7.4,Yes,No,11942911.79,4.93
+app97542,App_3280,Education,2.7,335299,4091580,169.15,16.42,Everyone,Paid,Developer B,2024-08-23,4.1 and up,1.0,Yes,Yes,70774290.92,4.3
+app16410,App_6166,Music,3.4,281134,5691177,88.53,17.57,Everyone 10+,Paid,Developer C,2024-11-17,6.0 and up,1.0,No,No,102757665.98,8.35
+app67014,App_9941,Education,3.9,169273,1110991,374.07,5.6,Everyone 10+,Paid,Developer B,2024-12-06,9.0 and up,5.1,Yes,No,6447029.38,7.82
+app29203,App_5806,Music,2.3,134199,9335858,445.28,13.26,Mature 17+,Paid,Developer A,2024-07-08,5.0 and up,5.1,No,Yes,126338409.62,8.46
+app87682,App_5396,Shopping,4.1,482438,6164345,142.36,0.0,Mature 17+,Free,Developer A,2024-02-19,8.0 and up,1.0,No,Yes,1645903.05,7.88
+app15203,App_2927,Social,2.4,322697,1020573,326.65,0.0,Teen,Free,Developer G,2024-04-15,5.0 and up,4.0,Yes,No,0.0,6.18
+app78432,App_8348,Productivity,2.9,247484,7360398,300.86,9.99,Everyone 10+,Paid,Developer E,2024-12-13,7.0 and up,7.4,No,No,76346954.34,9.0
+app73162,App_6709,Travel,4.3,26024,1702871,406.87,0.0,Mature 17+,Free,Developer H,2024-11-10,9.0 and up,5.1,No,Yes,244965.71,6.77
+app90171,App_1287,Music,3.0,215965,1062203,285.36,19.96,Mature 17+,Paid,Developer G,2024-07-18,5.0 and up,6.3,Yes,Yes,21906199.61,8.04
+app84895,App_1510,Shopping,4.2,150950,6724943,111.57,12.9,Everyone 10+,Paid,Developer H,2024-09-18,10.0 and up,1.0,Yes,Yes,90148475.46,3.06
+app60742,App_6596,Travel,2.2,187634,7412597,357.08,0.0,Everyone,Free,Developer E,2024-03-30,7.0 and up,6.3,Yes,No,482850.28,6.3
+app93147,App_7357,Photography,4.7,401527,3384441,303.42,5.55,Everyone 10+,Paid,Developer I,2024-06-19,10.0 and up,2.5,Yes,No,19716965.88,4.62
+app55303,App_7336,Photography,1.4,95646,6371080,428.54,9.28,Everyone 10+,Paid,Developer J,2024-09-06,9.0 and up,1.0,Yes,No,63997574.56,4.95
+app33771,App_3558,Game,4.4,403551,1129436,12.92,0.0,Everyone 10+,Free,Developer F,2024-11-17,7.0 and up,6.3,No,Yes,145027.15,3.56
+app91190,App_6636,Social,4.3,393965,9404237,288.61,0.0,Everyone 10+,Free,Developer H,2024-11-18,6.0 and up,1.0,No,No,2755586.77,3.39
+app17288,App_7034,Game,3.7,196555,1184831,454.6,8.49,Mature 17+,Paid,Developer E,2024-01-13,8.0 and up,6.3,Yes,No,10690094.72,1.23
+app12074,App_6111,Finance,2.2,61771,3066779,136.91,10.93,Teen,Paid,Developer F,2024-01-18,8.0 and up,4.0,No,No,33844790.99,9.78
+app47153,App_1225,Education,3.9,275970,8144259,130.81,14.32,Everyone 10+,Paid,Developer G,2024-03-09,9.0 and up,7.4,No,Yes,120134415.85,5.22
+app22483,App_7729,Shopping,3.3,42705,3514692,217.47,5.42,Mature 17+,Paid,Developer E,2024-02-12,4.1 and up,5.1,No,No,19049630.64,3.2
+app86415,App_7768,Travel,2.9,215992,3260175,42.6,0.0,Mature 17+,Free,Developer C,2024-05-01,5.0 and up,7.4,Yes,Yes,588651.67,5.41
+app52745,App_4343,Social,1.9,302416,7001213,439.8,14.06,Everyone 10+,Paid,Developer J,2024-12-28,8.0 and up,1.0,No,No,104310905.35,1.26
+app12656,App_4526,Travel,3.6,398501,470410,204.53,0.0,Mature 17+,Free,Developer J,2024-06-19,5.0 and up,4.0,No,No,118383.7,4.84
+app87842,App_2074,Music,4.6,378655,2400247,385.87,0.0,Teen,Free,Developer H,2024-09-19,4.1 and up,7.4,No,No,0.0,8.5
+app43394,App_2718,Social,4.9,187026,3638678,14.79,1.86,Everyone,Paid,Developer H,2024-08-03,6.0 and up,5.1,Yes,Yes,6922314.26,2.49
+app40811,App_6392,Game,2.2,117069,3890247,418.11,7.46,Everyone,Paid,Developer B,2024-06-03,5.0 and up,6.3,No,No,29127211.92,9.82
+app87832,App_3297,Photography,3.9,272192,7786050,44.87,0.0,Teen,Free,Developer C,2024-04-19,4.1 and up,3.2,No,No,3074546.29,8.43
+app34711,App_5402,Shopping,1.5,78002,4235296,94.2,0.0,Everyone 10+,Free,Developer G,2024-09-24,6.0 and up,3.2,Yes,No,0.0,1.81
+app87291,App_2385,Finance,3.2,166517,592005,491.58,0.0,Everyone 10+,Free,Developer D,2024-07-21,6.0 and up,2.5,Yes,No,239470.21,4.43
+app67163,App_1430,Game,3.8,106753,4604414,334.02,3.51,Everyone 10+,Paid,Developer H,2024-05-05,9.0 and up,3.2,No,Yes,18272683.23,7.3
+app51122,App_1165,Productivity,3.7,469657,8217348,279.19,0.0,Everyone,Free,Developer F,2024-09-13,7.0 and up,6.3,No,Yes,1027716.76,2.35
+app99644,App_9449,Music,2.6,84882,9790668,281.77,12.14,Teen,Paid,Developer E,2024-07-28,5.0 and up,5.1,No,Yes,118858709.52,8.47
+app80928,App_2209,Social,2.5,72667,3330231,482.63,0.0,Everyone 10+,Free,Developer J,2024-09-20,9.0 and up,6.3,Yes,No,934841.53,2.11
+app95089,App_4148,Music,1.6,23702,8251453,312.56,10.88,Teen,Paid,Developer F,2024-05-13,4.1 and up,5.1,Yes,Yes,94094788.32,1.68
+app87215,App_4459,Photography,2.3,172183,6554068,150.17,0.0,Everyone,Free,Developer B,2024-03-12,4.1 and up,3.2,Yes,No,3790144.68,9.97
+app31512,App_3047,Music,2.9,464431,6976180,422.68,4.67,Everyone,Paid,Developer H,2024-11-13,8.0 and up,6.3,No,No,37282243.76,7.11
+app93538,App_3544,Productivity,1.3,301788,5034017,58.64,0.0,Everyone 10+,Free,Developer J,2024-09-30,8.0 and up,7.4,Yes,Yes,1199450.96,2.04
+app63272,App_5197,Finance,4.9,42408,2168411,18.42,0.0,Teen,Free,Developer B,2024-04-06,7.0 and up,4.0,Yes,No,331987.75,1.66
+app16741,App_6157,Shopping,3.8,175591,8155457,360.55,18.01,Mature 17+,Paid,Developer B,2024-02-02,10.0 and up,5.1,Yes,No,146879780.57,1.92
+app84756,App_8901,Social,2.6,248414,4231251,328.75,0.0,Everyone 10+,Free,Developer F,2024-08-24,7.0 and up,3.2,Yes,Yes,2749575.5,7.63
+app30995,App_6930,Travel,4.0,174356,1858379,357.22,14.43,Mature 17+,Paid,Developer A,2024-12-05,10.0 and up,5.1,No,No,28287324.99,6.37
+app49389,App_8836,Game,3.0,216430,2617017,459.01,11.07,Mature 17+,Paid,Developer E,2024-11-15,9.0 and up,1.0,No,Yes,29097161.41,3.7
+app82669,App_8434,Travel,5.0,21364,716726,290.46,0.0,Mature 17+,Free,Developer A,2024-01-11,9.0 and up,1.0,No,Yes,132247.64,6.94
+app79124,App_3122,Health & Fitness,1.2,498062,5695792,466.3,12.82,Everyone,Paid,Developer H,2024-12-04,8.0 and up,1.0,No,No,76332975.51,1.8
+app96639,App_2080,Game,4.6,149999,4620561,125.56,0.0,Everyone 10+,Free,Developer A,2024-10-02,6.0 and up,1.0,Yes,Yes,0.0,8.74
+app37742,App_3268,Education,2.9,266836,1230207,418.81,0.0,Everyone 10+,Free,Developer I,2024-03-29,9.0 and up,4.0,No,No,485388.13,1.4
+app47370,App_6243,Shopping,4.4,455603,9697271,410.32,10.35,Teen,Paid,Developer D,2024-11-27,5.0 and up,4.0,Yes,Yes,101322818.11,7.23
+app27881,App_9566,Productivity,4.8,138627,6227838,30.03,13.13,Everyone,Paid,Developer B,2024-10-12,5.0 and up,2.5,Yes,No,82375545.12,2.71
+app73148,App_6926,Productivity,4.6,449291,2925062,183.68,0.0,Everyone 10+,Free,Developer J,2024-05-23,9.0 and up,1.0,No,No,93135.52,4.5
+app37630,App_9344,Shopping,3.7,78290,948172,83.39,0.0,Everyone,Free,Developer E,2024-10-04,6.0 and up,7.4,Yes,No,3252.24,1.93
+app83936,App_1564,Photography,2.6,333004,8180012,202.65,5.31,Everyone 10+,Paid,Developer G,2024-09-08,9.0 and up,6.3,No,No,45936242.69,2.11
+app76944,App_9527,Social,1.3,266492,523486,5.69,1.73,Everyone,Paid,Developer B,2024-08-17,9.0 and up,5.1,Yes,Yes,905630.78,3.7
+app38115,App_3517,Productivity,1.2,493076,877224,235.96,0.46,Teen,Paid,Developer C,2024-09-30,9.0 and up,6.3,No,Yes,1240394.3,8.02
+app54473,App_6809,Game,2.8,33551,9833830,257.44,11.58,Everyone,Paid,Developer H,2024-12-10,4.1 and up,5.1,Yes,No,114262410.18,4.11
+app60148,App_5018,Photography,1.3,272310,9147230,169.4,0.0,Teen,Free,Developer H,2024-12-15,5.0 and up,6.3,No,No,955041.77,8.06
+app95592,App_2713,Health & Fitness,1.2,70749,2834951,261.89,0.0,Everyone 10+,Free,Developer H,2024-01-21,10.0 and up,7.4,Yes,Yes,995761.97,9.76
+app50358,App_9319,Productivity,1.0,338041,7940373,393.71,0.0,Everyone,Free,Developer E,2024-05-06,4.1 and up,7.4,No,Yes,1052278.69,8.15
+app52341,App_2387,Shopping,4.8,132762,9651424,238.43,19.92,Everyone,Paid,Developer C,2024-04-26,6.0 and up,6.3,No,No,195447477.62,3.25
+app22227,App_5169,Productivity,2.9,137125,2698558,287.11,9.91,Everyone 10+,Paid,Developer C,2024-02-03,8.0 and up,6.3,Yes,No,27953610.08,9.98
+app84635,App_7314,Health & Fitness,1.0,33425,2083893,233.0,0.0,Everyone,Free,Developer B,2024-05-13,7.0 and up,1.0,Yes,No,1760587.78,1.66
+app34562,App_2928,Shopping,3.6,340237,8226175,141.6,1.57,Everyone 10+,Paid,Developer F,2024-11-24,8.0 and up,6.3,No,Yes,15668740.54,5.95
+app46400,App_3583,Shopping,1.2,490263,4297249,344.75,0.0,Everyone 10+,Free,Developer A,2024-10-02,8.0 and up,5.1,No,Yes,165343.84,7.29
+app93884,App_9844,Productivity,5.0,422958,3655651,113.49,1.17,Teen,Paid,Developer J,2024-08-11,9.0 and up,1.0,Yes,Yes,7169028.01,9.09
+app53223,App_6218,Productivity,2.1,153118,9505682,189.85,5.5,Everyone 10+,Paid,Developer C,2024-01-23,7.0 and up,5.1,Yes,Yes,54320350.11,8.56
+app64867,App_9350,Productivity,3.2,403883,8802733,353.24,0.0,Mature 17+,Free,Developer J,2024-11-14,9.0 and up,4.0,No,No,584582.84,7.26
+app24412,App_1632,Health & Fitness,1.9,343671,1179785,432.37,12.17,Everyone 10+,Paid,Developer A,2024-03-06,8.0 and up,1.0,No,No,14810274.86,3.63
+app41625,App_8375,Music,2.9,258427,8805546,401.08,0.0,Teen,Free,Developer H,2024-08-29,9.0 and up,3.2,No,No,2975132.42,1.98
+app64101,App_1961,Photography,3.6,387808,4411972,128.85,0.32,Mature 17+,Paid,Developer B,2024-01-18,8.0 and up,4.0,No,No,1630412.14,2.72
+app53688,App_2538,Game,4.7,261746,3500509,62.02,0.0,Mature 17+,Free,Developer C,2024-11-14,6.0 and up,1.0,Yes,No,1973454.58,4.11
+app77784,App_7348,Education,3.5,393080,6086020,273.25,15.27,Mature 17+,Paid,Developer H,2024-09-04,8.0 and up,4.0,No,Yes,93235145.2,2.21
+app71140,App_6338,Game,2.3,385820,4638305,384.86,0.91,Mature 17+,Paid,Developer J,2024-01-05,10.0 and up,7.4,Yes,Yes,4341155.26,6.55
+app29732,App_4375,Education,1.1,83357,7229009,278.87,17.04,Mature 17+,Paid,Developer E,2024-05-23,10.0 and up,5.1,No,Yes,123671934.93,7.01
+app91230,App_2276,Finance,2.0,216811,6131101,446.67,17.66,Everyone,Paid,Developer I,2024-08-23,6.0 and up,4.0,No,Yes,110472639.48,7.85
+app67875,App_8735,Education,1.6,261500,3221564,149.79,0.0,Mature 17+,Free,Developer E,2024-09-17,6.0 and up,5.1,No,No,2181296.64,3.92
+app80647,App_7517,Music,1.8,233173,9622360,417.01,14.21,Mature 17+,Paid,Developer H,2024-09-24,4.1 and up,5.1,No,No,137912497.66,5.97
+app33831,App_2336,Music,4.3,341328,8655474,404.01,6.33,Teen,Paid,Developer H,2024-01-13,6.0 and up,5.1,No,Yes,56453418.8,5.93
+app10299,App_5171,Travel,3.9,815,4263888,285.4,0.0,Everyone,Free,Developer H,2024-11-15,8.0 and up,5.1,No,Yes,168437.17,6.98
+app48478,App_5567,Finance,1.8,164820,4434378,118.02,0.0,Mature 17+,Free,Developer H,2024-05-24,4.1 and up,3.2,No,No,383497.42,3.1
+app65004,App_8373,Health & Fitness,3.9,378859,4278935,395.08,0.0,Everyone,Free,Developer A,2024-03-23,5.0 and up,5.1,Yes,No,1576645.55,4.29
+app30370,App_1724,Music,3.8,294024,5903466,425.71,3.57,Everyone 10+,Paid,Developer F,2024-10-26,10.0 and up,7.4,Yes,No,22717944.95,9.31
+app79405,App_4290,Photography,3.3,142982,2439506,27.18,0.0,Teen,Free,Developer I,2024-09-04,9.0 and up,6.3,Yes,Yes,1459053.06,5.96
+app32710,App_8599,Travel,1.9,169731,402277,12.56,0.0,Mature 17+,Free,Developer D,2024-04-23,10.0 and up,1.0,No,No,41789.56,6.09
+app32053,App_9828,Productivity,4.6,299902,3302328,107.41,0.15,Everyone,Paid,Developer B,2024-04-26,10.0 and up,6.3,No,No,744157.17,8.87
+app45005,App_9570,Finance,1.4,379988,7940502,370.55,15.11,Everyone 10+,Paid,Developer D,2024-06-13,7.0 and up,2.5,No,Yes,121357910.04,8.62
+app33536,App_3029,Social,3.0,109517,677522,94.63,14.54,Everyone,Paid,Developer A,2024-02-23,10.0 and up,4.0,Yes,Yes,9851169.88,8.6
+app16639,App_8269,Social,1.1,68757,3951989,172.09,6.45,Mature 17+,Paid,Developer C,2024-08-16,9.0 and up,6.3,Yes,Yes,26346255.0,7.62
+app94583,App_6812,Travel,2.1,307469,3353396,152.25,15.37,Everyone 10+,Paid,Developer J,2024-10-23,4.1 and up,7.4,Yes,No,52855317.27,9.48
+app78234,App_4354,Photography,2.9,251983,9727488,110.44,0.0,Mature 17+,Free,Developer H,2024-05-31,5.0 and up,4.0,Yes,Yes,1872201.92,6.54
+app69053,App_3345,Music,1.2,114860,3663787,121.88,18.29,Everyone 10+,Paid,Developer I,2024-09-26,8.0 and up,7.4,No,Yes,68576474.13,4.9
+app90714,App_8949,Education,2.2,443589,2609528,204.89,10.8,Everyone,Paid,Developer G,2024-06-08,9.0 and up,4.0,No,Yes,28633680.45,3.23
+app38407,App_8343,Social,4.3,420078,6862010,343.69,16.13,Everyone,Paid,Developer B,2024-05-26,4.1 and up,7.4,Yes,No,111360651.11,4.85
+app81365,App_7046,Social,4.0,432100,6893204,63.0,14.9,Mature 17+,Paid,Developer I,2024-10-10,8.0 and up,6.3,Yes,No,102765186.18,7.25
+app72861,App_1150,Health & Fitness,3.8,318937,4990361,200.8,0.0,Teen,Free,Developer A,2024-09-23,4.1 and up,5.1,Yes,Yes,714770.42,1.89
+app47902,App_8523,Productivity,1.7,476366,8155899,298.36,5.43,Everyone 10+,Paid,Developer J,2024-03-07,10.0 and up,7.4,No,Yes,45227593.07,8.1
+app55709,App_5712,Productivity,2.8,119745,4828048,127.19,7.24,Mature 17+,Paid,Developer G,2024-12-17,5.0 and up,2.5,Yes,Yes,38247770.55,6.67
+app53453,App_8152,Productivity,3.0,416864,4997842,289.23,0.0,Everyone,Free,Developer H,2024-10-01,4.1 and up,5.1,Yes,No,645425.41,5.77
+app37855,App_5559,Finance,3.9,124103,7119106,173.46,5.15,Teen,Paid,Developer H,2024-05-10,10.0 and up,7.4,Yes,Yes,37520898.48,4.68
+app79471,App_3187,Productivity,2.0,165464,7174927,149.34,19.8,Everyone 10+,Paid,Developer C,2024-03-15,9.0 and up,1.0,No,Yes,142274946.65,3.0
+app57328,App_7406,Finance,3.8,241387,9311369,324.65,0.23,Teen,Paid,Developer A,2024-08-03,9.0 and up,4.0,Yes,No,7431430.74,5.97
+app23216,App_5115,Photography,2.7,445309,4694083,250.24,0.0,Teen,Free,Developer J,2024-05-18,8.0 and up,6.3,Yes,Yes,524165.76,1.99
+app98150,App_2529,Social,4.3,398683,5759673,78.18,14.17,Mature 17+,Paid,Developer C,2024-06-17,5.0 and up,4.0,Yes,No,84530802.06,5.39
+app41829,App_6833,Education,4.5,213517,3212375,67.24,0.0,Mature 17+,Free,Developer J,2024-04-21,10.0 and up,5.1,No,No,106203.53,3.25
+app29242,App_7551,Education,2.8,454507,6717074,236.53,0.0,Teen,Free,Developer B,2024-05-11,10.0 and up,4.0,Yes,Yes,2229377.63,7.97
+app89354,App_7689,Photography,2.6,456916,565292,235.11,2.69,Mature 17+,Paid,Developer D,2024-12-22,10.0 and up,1.0,Yes,No,2080083.01,8.42
+app16547,App_9827,Education,1.4,321747,7449497,203.85,0.0,Mature 17+,Free,Developer B,2024-03-31,6.0 and up,1.0,Yes,No,56892.98,4.47
+app42665,App_4163,Productivity,2.1,37186,7759925,495.57,10.93,Everyone,Paid,Developer C,2024-09-19,9.0 and up,2.5,No,Yes,84815980.25,5.51
+app41542,App_2141,Finance,4.0,234971,8121445,204.76,19.74,Everyone,Paid,Developer A,2024-05-10,8.0 and up,3.2,Yes,No,161696183.56,1.41
+app30207,App_5139,Social,3.1,459492,2510887,360.79,14.7,Mature 17+,Paid,Developer D,2024-04-22,7.0 and up,5.1,No,Yes,36982081.77,4.68
+app30113,App_1504,Shopping,2.4,211205,2612969,119.22,0.0,Everyone,Free,Developer J,2024-04-06,5.0 and up,3.2,Yes,Yes,132239.37,5.11
+app27289,App_7909,Music,3.9,107519,3861434,378.07,0.0,Mature 17+,Free,Developer H,2024-11-19,9.0 and up,7.4,Yes,Yes,1033912.96,7.6
+app76723,App_6144,Productivity,3.6,468036,7718933,436.48,19.21,Everyone,Paid,Developer G,2024-05-11,7.0 and up,3.2,Yes,No,150736316.62,5.44
+app59905,App_6327,Health & Fitness,1.8,312402,5464311,70.55,0.0,Everyone 10+,Free,Developer F,2024-01-23,6.0 and up,4.0,No,Yes,4883366.37,1.89
+app16248,App_4277,Shopping,4.4,305211,3540726,111.26,3.28,Everyone,Paid,Developer E,2024-05-14,10.0 and up,3.2,No,No,13271195.19,1.97
+app19607,App_1438,Shopping,2.9,41530,2228162,165.5,0.0,Teen,Free,Developer I,2024-09-29,4.1 and up,4.0,Yes,Yes,717525.91,3.32
+app40653,App_7897,Music,4.0,147312,7317336,39.74,1.39,Everyone,Paid,Developer B,2024-08-19,10.0 and up,7.4,Yes,No,17435853.77,9.18
+app76252,App_3139,Productivity,2.8,199710,7503681,289.61,16.39,Teen,Paid,Developer G,2024-02-05,9.0 and up,2.5,Yes,Yes,122985331.59,8.81
+app77050,App_7991,Finance,2.4,50722,69051,294.2,0.0,Teen,Free,Developer B,2024-06-30,9.0 and up,2.5,No,Yes,0.0,5.18
+app45945,App_2301,Productivity,1.5,219582,8320370,440.62,0.37,Teen,Paid,Developer D,2024-12-13,4.1 and up,1.0,No,Yes,5011732.3,7.11
+app37602,App_3639,Productivity,4.1,286973,8442703,262.78,0.0,Everyone,Free,Developer D,2024-02-17,6.0 and up,3.2,Yes,No,3269532.93,6.86
+app71559,App_3578,Health & Fitness,1.1,53835,4071629,90.1,12.07,Everyone 10+,Paid,Developer J,2024-12-31,9.0 and up,3.2,Yes,Yes,50512600.63,7.69
+app72193,App_6288,Photography,1.2,202902,8139134,337.25,0.0,Mature 17+,Free,Developer B,2024-08-30,10.0 and up,5.1,Yes,No,3084931.82,2.98
+app77474,App_3209,Travel,1.2,468450,5885899,495.7,10.03,Everyone,Paid,Developer A,2024-06-04,9.0 and up,7.4,No,No,59870841.82,3.25
+app98958,App_4519,Education,4.0,61640,6697269,316.51,7.4,Everyone 10+,Paid,Developer F,2024-08-17,8.0 and up,5.1,Yes,Yes,49559790.6,5.7
+app85948,App_7126,Shopping,4.0,155164,396230,83.13,2.28,Teen,Paid,Developer C,2024-04-23,9.0 and up,4.0,No,No,998531.92,1.33
+app44547,App_9598,Social,3.4,173532,5876337,320.54,0.0,Mature 17+,Free,Developer J,2024-11-01,6.0 and up,5.1,Yes,No,2352899.15,1.34
+app21534,App_4016,Productivity,5.0,196962,2317618,223.53,6.77,Everyone 10+,Paid,Developer E,2024-12-23,7.0 and up,5.1,Yes,No,17221144.72,6.71
+app44940,App_4988,Productivity,3.6,256933,2654845,73.3,0.0,Everyone 10+,Free,Developer B,2024-01-02,8.0 and up,6.3,No,No,96169.94,2.88
+app33844,App_7483,Travel,3.2,407091,2180695,479.66,0.0,Everyone,Free,Developer A,2024-10-31,9.0 and up,2.5,No,No,0.0,9.71
+app90711,App_6201,Productivity,2.0,357588,1191367,118.72,0.0,Everyone,Free,Developer E,2024-05-27,6.0 and up,6.3,Yes,Yes,266019.72,7.04
+app71664,App_8404,Game,3.9,446716,1354749,90.98,2.23,Mature 17+,Paid,Developer E,2024-06-20,8.0 and up,3.2,Yes,Yes,4104149.15,3.95
+app57015,App_4891,Health & Fitness,1.6,1642,4337400,180.96,0.0,Everyone 10+,Free,Developer F,2024-05-09,4.1 and up,6.3,Yes,No,1881584.81,2.83
+app53049,App_2777,Music,4.5,76931,9501299,89.38,0.0,Everyone,Free,Developer I,2024-11-26,5.0 and up,2.5,Yes,No,277086.06,6.89
+app76207,App_8080,Game,4.5,413121,7835277,319.75,0.0,Everyone,Free,Developer F,2024-06-01,9.0 and up,6.3,Yes,No,294946.3,5.49
+app79463,App_7180,Travel,2.5,325652,4305845,400.81,14.66,Mature 17+,Paid,Developer E,2024-10-22,9.0 and up,5.1,Yes,No,63988627.47,2.91
+app89317,App_2782,Travel,3.7,282090,8321608,58.2,0.0,Mature 17+,Free,Developer H,2024-06-16,4.1 and up,3.2,No,Yes,1258390.64,9.46
+app48309,App_6277,Music,1.1,155055,1572065,404.32,10.26,Teen,Paid,Developer H,2024-06-23,5.0 and up,2.5,No,No,16271673.36,1.5
+app36592,App_8132,Social,3.8,393178,950466,490.7,0.0,Teen,Free,Developer G,2024-12-02,6.0 and up,4.0,Yes,Yes,742944.59,3.56
+app69850,App_5487,Finance,4.7,119432,9849149,189.57,5.41,Everyone 10+,Paid,Developer F,2024-02-03,9.0 and up,1.0,Yes,Yes,53434486.33,6.98
+app92368,App_6548,Travel,1.9,307237,2073296,399.37,12.28,Everyone,Paid,Developer J,2024-07-05,7.0 and up,7.4,No,Yes,26001515.79,5.09
+app23128,App_8460,Photography,3.6,149306,3156772,96.87,0.0,Everyone 10+,Free,Developer C,2024-10-16,4.1 and up,5.1,No,Yes,2410234.51,4.02
+app39460,App_3364,Shopping,1.7,99522,1948054,54.41,7.54,Everyone 10+,Paid,Developer C,2024-12-08,6.0 and up,7.4,Yes,Yes,14764121.62,8.45
+app32202,App_9981,Travel,2.5,267812,5299497,88.77,0.0,Mature 17+,Free,Developer E,2024-05-23,4.1 and up,6.3,Yes,Yes,788283.54,7.74
+app46085,App_3944,Social,3.2,52981,1915624,499.61,1.47,Teen,Paid,Developer J,2024-04-23,8.0 and up,4.0,No,Yes,4008673.67,9.81
+app54122,App_1804,Shopping,2.4,414727,4508439,260.51,14.69,Teen,Paid,Developer G,2024-07-18,8.0 and up,2.5,Yes,Yes,66516712.71,4.91
+app96637,App_9446,Travel,2.9,139612,1049365,73.86,0.0,Everyone 10+,Free,Developer H,2024-02-05,5.0 and up,6.3,No,No,161834.84,9.66
+app74010,App_1049,Education,2.1,237691,4721287,227.22,10.01,Everyone 10+,Paid,Developer A,2024-04-16,10.0 and up,2.5,No,No,47336079.65,4.02
+app78835,App_4331,Education,1.7,390525,4315024,124.97,9.0,Teen,Paid,Developer I,2024-01-25,6.0 and up,5.1,Yes,Yes,39650816.27,9.52
+app93929,App_7001,Productivity,2.0,418132,973721,365.83,0.0,Mature 17+,Free,Developer B,2024-10-08,10.0 and up,7.4,Yes,No,425937.64,7.17
+app72701,App_6153,Education,2.4,299413,3611349,154.81,10.12,Teen,Paid,Developer A,2024-08-08,4.1 and up,6.3,Yes,Yes,37989452.48,7.88
+app52617,App_1567,Social,4.6,386809,5925674,472.87,10.97,Everyone 10+,Paid,Developer B,2024-02-24,6.0 and up,5.1,Yes,Yes,66607696.54,1.03
+app92077,App_9150,Productivity,2.9,67246,1672121,48.5,2.43,Everyone,Paid,Developer B,2024-02-18,10.0 and up,3.2,No,No,4396864.93,6.48
+app99667,App_8319,Shopping,4.6,82361,9306145,143.07,2.53,Mature 17+,Paid,Developer I,2024-07-29,4.1 and up,5.1,Yes,No,24500745.63,5.08
+app53191,App_7926,Game,4.9,406409,3554971,124.18,0.0,Teen,Free,Developer C,2024-12-25,8.0 and up,2.5,Yes,No,906343.69,7.38
+app87660,App_6093,Health & Fitness,4.8,148178,5813586,452.0,0.0,Mature 17+,Free,Developer F,2024-01-10,8.0 and up,1.0,No,No,915433.57,6.11
+app16268,App_1316,Shopping,2.7,428067,8545073,323.11,0.0,Everyone,Free,Developer J,2024-12-14,6.0 and up,5.1,Yes,No,7377119.75,4.54
+app81382,App_4270,Finance,2.2,158923,4382604,92.12,0.0,Teen,Free,Developer E,2024-02-07,7.0 and up,7.4,Yes,Yes,981960.99,6.42
+app23253,App_2404,Productivity,4.9,26002,2565480,465.52,5.89,Everyone,Paid,Developer F,2024-03-05,7.0 and up,1.0,Yes,Yes,17074056.76,1.81
+app38113,App_9286,Photography,4.7,128105,7582995,337.13,0.0,Mature 17+,Free,Developer F,2024-07-06,9.0 and up,4.0,No,Yes,0.0,1.73
+app45794,App_2505,Photography,2.7,50424,6193722,432.38,0.0,Everyone,Free,Developer D,2024-05-16,6.0 and up,5.1,No,No,1214745.77,1.06
+app69214,App_9421,Health & Fitness,2.5,226786,6266070,494.68,0.0,Everyone,Free,Developer G,2024-08-26,9.0 and up,7.4,No,No,3552927.08,4.32
+app27494,App_8630,Finance,3.7,62041,4855730,212.67,9.87,Everyone 10+,Paid,Developer A,2024-03-19,7.0 and up,2.5,Yes,Yes,48397087.02,3.78
+app83566,App_5062,Education,4.5,66541,9939075,292.28,0.0,Everyone 10+,Free,Developer F,2024-03-25,9.0 and up,4.0,No,Yes,208423.89,1.41
+app67717,App_7233,Photography,1.8,259586,5180635,408.56,0.0,Everyone,Free,Developer J,2024-10-12,4.1 and up,4.0,Yes,Yes,994992.1,9.2
+app50982,App_6542,Health & Fitness,2.6,307243,3439499,163.14,18.08,Everyone,Paid,Developer H,2024-04-22,7.0 and up,4.0,No,No,62388906.93,1.91
+app52064,App_3226,Finance,2.3,336196,5392345,356.83,3.54,Everyone 10+,Paid,Developer B,2024-01-27,6.0 and up,3.2,Yes,Yes,20901298.51,7.57
+app37907,App_5268,Finance,1.7,268646,9850544,276.43,0.0,Everyone,Free,Developer B,2024-02-17,4.1 and up,6.3,Yes,No,1330474.43,3.82
+app21297,App_1824,Health & Fitness,3.7,346120,8097080,373.1,3.77,Everyone 10+,Paid,Developer J,2024-01-02,4.1 and up,2.5,Yes,Yes,38399984.5,3.18
+app51401,App_7194,Education,4.1,471170,8658159,81.63,0.0,Everyone 10+,Free,Developer E,2024-08-21,8.0 and up,1.0,No,Yes,379575.6,8.12
+app55827,App_2049,Shopping,4.2,429890,6460121,174.05,1.89,Teen,Paid,Developer B,2024-01-09,7.0 and up,7.4,No,Yes,15423003.02,5.55
+app35857,App_9519,Shopping,3.6,477621,2193699,263.08,0.0,Everyone,Free,Developer A,2024-03-18,10.0 and up,4.0,Yes,No,39050.21,7.07
+app43039,App_3694,Education,1.3,456526,3050192,432.9,18.27,Everyone 10+,Paid,Developer F,2024-09-22,10.0 and up,6.3,No,No,55727007.84,6.11
+app16331,App_7497,Game,1.1,2170,6746059,263.64,0.0,Everyone,Free,Developer H,2024-04-30,10.0 and up,1.0,No,No,560320.9,6.24
+app73008,App_2870,Shopping,2.0,102224,6438270,328.22,0.95,Mature 17+,Paid,Developer F,2024-02-02,4.1 and up,4.0,No,Yes,6791122.54,7.02
+app16735,App_3392,Travel,3.8,73211,9653756,418.06,0.0,Mature 17+,Free,Developer J,2024-09-20,7.0 and up,7.4,Yes,Yes,27544.6,4.27
+app10090,App_8685,Finance,2.6,452923,4967526,270.44,0.0,Mature 17+,Free,Developer G,2024-08-06,5.0 and up,5.1,No,No,313325.76,5.09
+app43186,App_9707,Game,1.4,432673,7291877,94.07,13.75,Everyone,Paid,Developer B,2024-11-02,10.0 and up,4.0,Yes,No,100782883.75,3.22
+app60035,App_4522,Photography,1.4,375335,5649705,52.26,9.24,Mature 17+,Paid,Developer C,2024-03-04,6.0 and up,3.2,Yes,Yes,53441964.36,3.33
+app64355,App_8433,Travel,1.5,215805,5733843,435.11,2.08,Everyone 10+,Paid,Developer C,2024-08-30,8.0 and up,6.3,No,No,15070220.45,8.7
+app53510,App_1383,Health & Fitness,1.2,84735,8846444,116.62,15.87,Everyone,Paid,Developer E,2024-04-25,5.0 and up,1.0,Yes,Yes,146098411.72,6.83
+app32780,App_4415,Finance,3.9,13163,8164184,137.2,6.93,Everyone,Paid,Developer A,2024-02-24,10.0 and up,3.2,Yes,No,57348203.34,2.27
+app14482,App_8629,Education,2.4,391712,6985024,263.96,0.0,Everyone 10+,Free,Developer G,2024-09-20,10.0 and up,4.0,Yes,No,1311018.75,5.07
+app26824,App_6044,Shopping,1.4,219398,9338646,390.34,18.57,Mature 17+,Paid,Developer D,2024-11-18,8.0 and up,2.5,No,No,176155771.87,4.72
+app94144,App_7530,Music,4.6,325126,3662063,350.22,0.0,Everyone 10+,Free,Developer G,2024-09-03,4.1 and up,4.0,No,Yes,666876.03,3.06
+app45192,App_7895,Social,3.3,370939,8422507,469.67,0.0,Everyone 10+,Free,Developer E,2024-11-19,10.0 and up,6.3,No,Yes,2381906.08,1.57
+app38535,App_4174,Health & Fitness,3.8,85429,7742458,280.24,0.0,Everyone 10+,Free,Developer I,2024-10-12,9.0 and up,4.0,Yes,Yes,2477516.94,1.71
+app86323,App_9937,Productivity,2.1,286281,2219866,55.33,2.98,Everyone,Paid,Developer G,2024-03-05,9.0 and up,7.4,No,Yes,6885311.72,5.71
+app25272,App_2385,Productivity,1.4,194500,7283890,323.19,0.0,Teen,Free,Developer E,2024-11-07,6.0 and up,1.0,Yes,No,245778.54,6.93
+app79123,App_7860,Social,2.0,348098,6395999,437.03,5.36,Teen,Paid,Developer A,2024-09-02,10.0 and up,2.5,Yes,Yes,34613836.67,2.5
+app47342,App_8110,Social,3.0,391171,2356832,472.84,1.86,Teen,Paid,Developer A,2024-04-25,4.1 and up,5.1,Yes,No,5077896.05,9.98
+app65421,App_7686,Photography,2.9,491075,6251946,357.92,0.0,Teen,Free,Developer D,2024-09-13,9.0 and up,4.0,Yes,No,72861.33,3.97
+app96342,App_8110,Finance,4.0,274195,7557733,112.02,0.0,Mature 17+,Free,Developer B,2024-02-14,7.0 and up,4.0,No,No,0.0,5.08
+app42023,App_5675,Finance,3.0,145701,4505815,323.07,0.0,Teen,Free,Developer J,2024-07-06,9.0 and up,1.0,Yes,Yes,273510.36,6.46
+app19594,App_4415,Social,1.4,466551,3033568,291.01,0.0,Everyone 10+,Free,Developer D,2024-08-01,8.0 and up,4.0,Yes,Yes,0.0,7.04
+app63224,App_2015,Education,1.4,351068,4626189,133.63,0.0,Everyone,Free,Developer B,2024-08-12,8.0 and up,3.2,No,Yes,364371.14,6.61
+app34765,App_9893,Finance,4.0,102686,9574707,217.24,8.77,Teen,Paid,Developer C,2024-04-16,9.0 and up,2.5,Yes,Yes,84115050.6,8.85
+app49471,App_4669,Travel,3.1,437897,5239546,181.78,13.67,Mature 17+,Paid,Developer C,2024-12-17,4.1 and up,5.1,Yes,Yes,72447401.03,4.45
+app86102,App_2424,Travel,3.6,127187,2053659,425.85,15.5,Everyone 10+,Paid,Developer F,2024-09-03,7.0 and up,6.3,Yes,Yes,32713106.41,6.66
+app10788,App_7409,Travel,4.6,3004,3830773,329.96,0.0,Everyone 10+,Free,Developer F,2024-12-08,10.0 and up,1.0,Yes,No,2131331.95,5.39
+app54593,App_3759,Education,2.2,420078,2169778,115.65,17.03,Everyone 10+,Paid,Developer I,2024-01-20,6.0 and up,1.0,Yes,No,37130696.82,9.6
+app37628,App_5887,Education,2.5,437774,6334794,52.29,0.0,Everyone,Free,Developer D,2024-09-27,5.0 and up,4.0,No,No,535420.28,2.84
+app10795,App_5258,Finance,2.0,381622,600916,457.15,15.96,Teen,Paid,Developer H,2024-12-18,9.0 and up,7.4,Yes,Yes,9605022.58,8.9
+app62415,App_6735,Education,3.1,70935,7666577,400.99,5.01,Teen,Paid,Developer H,2024-04-02,8.0 and up,6.3,Yes,Yes,38409550.77,9.66
+app96187,App_9727,Shopping,4.9,97606,8993840,425.15,11.88,Mature 17+,Paid,Developer G,2024-07-29,8.0 and up,1.0,No,Yes,114284054.23,2.96
+app26210,App_8717,Social,3.6,141913,8994734,498.8,11.24,Teen,Paid,Developer F,2024-11-03,9.0 and up,1.0,Yes,No,101100810.16,8.27
+app90384,App_9700,Social,4.6,329408,8826542,47.88,0.0,Everyone,Free,Developer A,2024-12-05,4.1 and up,2.5,Yes,No,704691.4,9.27
+app29823,App_6766,Game,3.1,302632,5481251,455.9,0.0,Mature 17+,Free,Developer F,2024-03-22,5.0 and up,7.4,Yes,Yes,401635.02,7.78
+app91314,App_9360,Shopping,1.0,447044,4430757,183.06,0.0,Teen,Free,Developer I,2024-09-19,5.0 and up,4.0,Yes,Yes,354915.37,1.17
+app21704,App_9373,Finance,3.6,43325,7573376,142.6,5.16,Teen,Paid,Developer G,2024-11-04,4.1 and up,5.1,No,No,41314280.38,2.3
+app56310,App_2047,Finance,3.4,142704,9826859,348.59,0.0,Everyone,Free,Developer G,2024-10-14,9.0 and up,1.0,Yes,No,8619909.3,2.13
+app11558,App_8481,Productivity,2.8,165391,6445674,261.69,0.0,Mature 17+,Free,Developer J,2024-10-26,6.0 and up,7.4,Yes,Yes,2439959.84,3.43
+app29149,App_2230,Productivity,2.5,44981,5739664,108.42,14.48,Mature 17+,Paid,Developer J,2024-12-18,5.0 and up,5.1,Yes,Yes,85655640.14,6.29
+app90949,App_3436,Productivity,4.1,1754,1441649,267.36,0.0,Teen,Free,Developer D,2024-10-05,4.1 and up,3.2,No,Yes,459791.5,5.8
+app41214,App_5540,Education,3.4,145364,3409850,404.98,0.0,Mature 17+,Free,Developer E,2024-02-11,5.0 and up,2.5,No,Yes,2528696.12,7.29
+app83007,App_9959,Productivity,3.9,80190,3093413,385.23,0.0,Everyone 10+,Free,Developer E,2024-01-05,8.0 and up,7.4,No,Yes,544958.15,5.1
+app45685,App_2375,Music,4.1,118216,413887,464.29,0.0,Teen,Free,Developer A,2024-08-10,5.0 and up,6.3,No,No,231619.53,8.32
+app53219,App_4952,Education,2.9,208069,5856871,426.84,8.91,Everyone 10+,Paid,Developer A,2024-11-30,5.0 and up,1.0,Yes,Yes,52529662.67,4.52
+app48939,App_6270,Game,4.4,354558,1553259,393.84,0.0,Teen,Free,Developer C,2024-03-19,10.0 and up,1.0,No,No,0.0,6.6
+app41749,App_3622,Shopping,3.4,74192,7022140,431.16,6.41,Everyone 10+,Paid,Developer A,2024-08-14,8.0 and up,7.4,No,No,45384203.83,2.72
+app66106,App_7224,Education,3.0,472857,1773055,278.46,18.77,Everyone 10+,Paid,Developer A,2024-12-16,6.0 and up,2.5,No,Yes,33544241.23,4.47
+app79822,App_8575,Shopping,3.7,457186,1809492,83.56,13.32,Everyone,Paid,Developer D,2024-11-04,6.0 and up,2.5,No,Yes,24217807.64,7.58
+app75654,App_6981,Travel,1.3,301137,3999470,227.99,0.0,Everyone 10+,Free,Developer E,2024-07-06,5.0 and up,5.1,No,Yes,2518255.71,3.59
+app18298,App_1355,Productivity,4.5,98429,4753963,393.87,5.53,Everyone,Paid,Developer E,2024-10-03,8.0 and up,5.1,Yes,Yes,30086877.91,2.33
+app50498,App_3965,Music,1.1,2700,8405121,70.9,19.0,Mature 17+,Paid,Developer E,2024-09-04,9.0 and up,5.1,No,No,165848113.47,9.59
+app21324,App_5131,Social,4.7,292129,53495,33.87,12.56,Everyone 10+,Paid,Developer F,2024-10-14,10.0 and up,3.2,Yes,Yes,677692.98,3.17
+app37797,App_1264,Music,1.5,135045,7152281,133.06,18.2,Teen,Paid,Developer I,2024-10-22,9.0 and up,2.5,Yes,No,130584905.2,5.87
+app27028,App_8628,Photography,1.2,121112,2954385,9.9,11.11,Everyone 10+,Paid,Developer H,2024-07-22,7.0 and up,7.4,Yes,No,33810580.57,9.78
+app35661,App_1223,Game,3.2,118487,6372765,13.85,0.0,Mature 17+,Free,Developer F,2024-02-10,6.0 and up,7.4,No,Yes,1657811.15,2.45
+app72978,App_2900,Health & Fitness,2.4,157843,8431063,263.11,0.0,Mature 17+,Free,Developer A,2024-08-20,9.0 and up,5.1,No,No,0.0,1.89
+app20745,App_3123,Shopping,3.0,177557,6879631,274.79,18.0,Everyone 10+,Paid,Developer G,2024-03-19,8.0 and up,2.5,Yes,Yes,124896245.38,2.06
+app12320,App_6684,Shopping,2.8,114331,674726,148.43,0.0,Everyone 10+,Free,Developer I,2024-01-20,5.0 and up,2.5,No,Yes,0.0,7.25
+app60261,App_2993,Shopping,2.1,41080,2963585,341.67,15.17,Everyone 10+,Paid,Developer B,2024-03-15,8.0 and up,2.5,No,No,46417283.52,7.6
+app45640,App_4766,Shopping,4.7,454734,6709684,23.24,0.0,Teen,Free,Developer F,2024-09-20,6.0 and up,3.2,Yes,No,2584744.06,4.42
+app50326,App_3717,Photography,2.8,254144,4139995,218.31,11.12,Mature 17+,Paid,Developer D,2024-05-24,5.0 and up,5.1,Yes,No,46296800.54,9.01
+app84747,App_8509,Game,4.2,321162,4484374,115.22,0.0,Everyone,Free,Developer C,2024-04-23,6.0 and up,3.2,Yes,Yes,460355.5,4.08
+app50860,App_2259,Game,2.1,237577,4883054,326.24,0.0,Teen,Free,Developer D,2024-09-29,6.0 and up,6.3,No,No,498881.33,5.52
+app13964,App_3992,Travel,1.7,160144,9067791,146.25,12.13,Everyone 10+,Paid,Developer F,2024-06-02,6.0 and up,7.4,No,No,112867902.64,6.04
+app25810,App_5465,Education,3.7,223829,3204512,228.68,0.0,Everyone 10+,Free,Developer H,2024-12-28,7.0 and up,1.0,Yes,No,1992658.52,9.18
+app22880,App_8478,Shopping,1.9,58218,8227956,421.05,10.42,Everyone,Paid,Developer H,2024-12-28,7.0 and up,3.2,No,Yes,87101564.29,6.13
+app84370,App_5996,Health & Fitness,1.4,102796,6559286,464.85,0.0,Everyone 10+,Free,Developer C,2024-09-09,5.0 and up,5.1,No,Yes,0.0,8.42
+app49380,App_4998,Health & Fitness,3.0,226709,5043795,434.46,14.71,Teen,Paid,Developer E,2024-07-26,9.0 and up,5.1,No,No,75333926.41,7.17
+app41601,App_8468,Game,1.5,470861,1961074,389.69,0.0,Everyone,Free,Developer C,2024-04-25,5.0 and up,2.5,No,No,293836.46,2.53
+app42770,App_1720,Shopping,2.5,74300,2159048,124.54,0.0,Everyone 10+,Free,Developer H,2024-12-03,7.0 and up,4.0,No,Yes,256509.91,3.52
+app45850,App_6415,Finance,2.7,219995,5430399,145.23,0.0,Mature 17+,Free,Developer J,2024-08-19,4.1 and up,2.5,Yes,Yes,1299014.9,5.31
+app84950,App_2011,Social,1.7,309391,9216408,440.14,0.0,Everyone 10+,Free,Developer F,2024-05-04,4.1 and up,1.0,Yes,No,250329.24,7.41
+app41852,App_7068,Travel,2.7,238908,3255059,261.74,0.0,Mature 17+,Free,Developer A,2024-10-30,7.0 and up,1.0,No,No,215247.77,7.04
+app74334,App_3072,Shopping,3.8,405616,1228446,315.79,0.0,Everyone,Free,Developer I,2024-01-17,8.0 and up,7.4,No,Yes,82397.08,5.31
+app30255,App_6498,Music,2.7,446284,5017229,188.97,0.0,Mature 17+,Free,Developer C,2024-10-09,7.0 and up,7.4,Yes,Yes,0.0,1.71
+app66245,App_9257,Finance,3.3,364471,5160429,365.21,0.0,Mature 17+,Free,Developer I,2024-12-20,4.1 and up,5.1,No,Yes,1275692.57,5.18
+app95320,App_6565,Education,3.4,388838,9442441,349.49,13.96,Everyone,Paid,Developer E,2024-10-09,7.0 and up,3.2,Yes,No,133246696.89,9.93
+app13190,App_5063,Finance,3.2,472829,7875019,277.83,0.0,Everyone,Free,Developer E,2024-05-27,5.0 and up,2.5,Yes,No,3445276.67,2.56
+app38680,App_8214,Health & Fitness,3.6,199407,9492916,19.62,2.53,Everyone 10+,Paid,Developer F,2024-04-21,8.0 and up,7.4,Yes,Yes,24069851.99,1.61
+app58350,App_9201,Education,2.4,131564,4828739,204.74,0.0,Teen,Free,Developer J,2024-06-24,4.1 and up,2.5,No,Yes,2818506.38,5.03
+app42652,App_7068,Productivity,3.4,95226,2923162,157.53,0.0,Everyone,Free,Developer I,2024-09-17,10.0 and up,3.2,No,No,229167.86,2.82
+app65500,App_3506,Travel,4.1,4793,55883,258.33,7.1,Mature 17+,Paid,Developer D,2024-08-19,10.0 and up,4.0,No,Yes,409934.18,1.34
+app61847,App_8477,Music,1.6,169712,3316762,265.63,0.0,Mature 17+,Free,Developer J,2024-07-12,7.0 and up,7.4,Yes,Yes,1922238.31,5.25
+app30406,App_2069,Social,2.1,381570,7315070,56.27,0.0,Teen,Free,Developer G,2024-03-06,7.0 and up,1.0,No,No,541844.6,7.03
+app55380,App_8772,Social,2.1,194525,4116216,237.32,13.72,Teen,Paid,Developer E,2024-03-09,6.0 and up,7.4,Yes,Yes,56474483.52,1.64
+app50438,App_1563,Health & Fitness,4.0,489356,9635669,49.67,2.91,Everyone,Paid,Developer D,2024-03-15,7.0 and up,4.0,Yes,Yes,28268689.09,7.4
+app14833,App_3029,Photography,1.4,434551,6556348,107.34,18.86,Everyone,Paid,Developer E,2024-07-29,4.1 and up,2.5,Yes,No,127164685.84,3.21
+app34302,App_8045,Shopping,4.9,471958,196440,203.78,1.33,Everyone 10+,Paid,Developer C,2024-09-15,7.0 and up,1.0,No,Yes,330931.49,5.0
+app20125,App_2855,Game,3.2,171177,9203242,246.55,1.97,Everyone 10+,Paid,Developer A,2024-02-21,10.0 and up,3.2,No,Yes,20210673.47,9.15
+app14630,App_2445,Finance,4.0,351977,8583753,162.98,0.0,Mature 17+,Free,Developer J,2024-01-14,6.0 and up,3.2,No,Yes,2931723.67,8.31
+app73615,App_5646,Game,4.0,436421,7714565,166.78,0.0,Everyone 10+,Free,Developer B,2024-08-27,10.0 and up,6.3,No,No,2015179.16,8.63
+app58724,App_3403,Game,3.7,97634,651032,144.67,0.0,Teen,Free,Developer H,2024-02-14,4.1 and up,5.1,Yes,Yes,635000.77,9.05
+app10572,App_6156,Health & Fitness,4.8,52525,4675876,124.99,9.97,Teen,Paid,Developer B,2024-06-01,6.0 and up,4.0,Yes,No,46618483.72,7.36
+app39025,App_9698,Education,4.1,71274,6709516,98.74,0.0,Everyone,Free,Developer D,2024-12-08,5.0 and up,4.0,No,Yes,1808173.15,6.8
+app82899,App_5696,Health & Fitness,1.6,9247,5965535,310.28,18.34,Everyone 10+,Paid,Developer A,2024-05-05,4.1 and up,3.2,Yes,Yes,110043064.74,7.43
+app91731,App_7273,Game,1.5,325401,5966259,477.64,0.0,Everyone,Free,Developer C,2024-08-02,10.0 and up,7.4,No,No,569170.59,6.94
+app80274,App_4508,Travel,1.8,418388,27607,362.75,1.77,Everyone,Paid,Developer I,2024-10-12,8.0 and up,3.2,No,No,54007.91,2.84
+app51795,App_8840,Shopping,2.1,291346,6412992,74.52,5.88,Teen,Paid,Developer A,2024-07-21,8.0 and up,1.0,Yes,Yes,38936689.03,7.76
+app90901,App_3383,Photography,1.4,396689,1524769,32.98,16.96,Mature 17+,Paid,Developer C,2024-08-17,8.0 and up,1.0,Yes,No,25860082.24,1.27
+app18834,App_5459,Finance,2.6,79862,5418421,5.77,0.0,Teen,Free,Developer H,2024-11-26,7.0 and up,3.2,No,No,3574091.78,1.78
+app99566,App_3873,Productivity,3.6,312576,7308221,405.26,17.24,Everyone,Paid,Developer J,2024-04-24,5.0 and up,6.3,Yes,Yes,127030862.97,7.32
+app99949,App_6764,Finance,2.0,207725,2477887,210.69,0.0,Everyone 10+,Free,Developer I,2024-07-21,8.0 and up,2.5,No,No,513223.05,4.88
+app71288,App_4241,Health & Fitness,2.1,489558,5343126,277.53,0.0,Mature 17+,Free,Developer E,2024-04-19,4.1 and up,3.2,Yes,Yes,626120.75,8.17
+app46014,App_5231,Travel,4.8,321211,2979449,44.5,0.21,Everyone,Paid,Developer E,2024-10-03,10.0 and up,2.5,No,No,826128.78,2.66
+app55555,App_2070,Productivity,1.9,255815,5682251,477.13,18.82,Everyone 10+,Paid,Developer F,2024-10-26,8.0 and up,6.3,Yes,Yes,107140798.35,5.12
+app62574,App_1219,Finance,3.3,182758,9245514,53.54,0.0,Mature 17+,Free,Developer E,2024-05-06,9.0 and up,6.3,Yes,Yes,1880811.78,1.99
+app64304,App_6836,Social,2.8,409284,3542087,216.61,15.24,Mature 17+,Paid,Developer H,2024-08-05,10.0 and up,2.5,No,No,54907068.95,1.67
+app57060,App_3679,Health & Fitness,3.4,357961,1701528,426.1,0.0,Everyone,Free,Developer E,2024-07-28,8.0 and up,1.0,Yes,No,674643.4,9.32
+app62616,App_7726,Health & Fitness,4.4,341273,9682014,481.07,0.0,Teen,Free,Developer F,2024-05-14,7.0 and up,4.0,Yes,Yes,1971364.43,6.22
+app70621,App_8876,Game,1.8,410924,8642369,424.32,14.91,Teen,Paid,Developer I,2024-05-07,9.0 and up,7.4,Yes,No,128958301.31,5.47
+app38331,App_2342,Health & Fitness,4.1,324017,106400,74.02,0.0,Mature 17+,Free,Developer F,2024-09-09,6.0 and up,2.5,No,No,0.0,4.86
+app10442,App_7507,Social,4.4,351234,8749080,405.57,0.0,Mature 17+,Free,Developer C,2024-12-12,5.0 and up,5.1,Yes,Yes,265665.13,7.2
